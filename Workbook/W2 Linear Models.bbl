@@ -1,0 +1,112 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Butler%
+, Cullis%
+, Gilmour%
+\BCBL {}\ \BBA {} Gogel%
+}{%
+Butler%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+asremlr}
+\APACinsertmetastar {%
+asremlr}%
+\begin{APACrefauthors}%
+Butler, D.%
+, Cullis, B.%
+, Gilmour, A.%
+\BCBL {}\ \BBA {} Gogel, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {ASReml-R reference manual} {Asreml-r reference
+  manual}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+{R Core Team}%
+}{%
+{R Core Team}%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+r}
+\APACinsertmetastar {%
+r}%
+\begin{APACrefauthors}%
+{R Core Team}.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {R: A Language and Environment for Statistical Computing}
+  {R: A language and environment for statistical computing}{\BBCQ}\
+  [\bibcomputersoftwaremanual].
+\newblock
+\APACaddressPublisher{Vienna, Austria}{}.
+\newblock
+\begin{APACrefURL} \url{https://www.R-project.org/} \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Welham%
+, Gezan%
+, Clark%
+\BCBL {}\ \BBA {} Mead%
+}{%
+Welham%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2014}}%
+}]{%
+welham2014statistical}
+\APACinsertmetastar {%
+welham2014statistical}%
+\begin{APACrefauthors}%
+Welham, S\BPBI J.%
+, Gezan, S\BPBI A.%
+, Clark, S.%
+\BCBL {}\ \BBA {} Mead, A.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2014}.
+\newblock
+\APACrefbtitle {Statistical methods in biology: Design and analysis of
+  experiments and regression} {Statistical methods in biology: Design and
+  analysis of experiments and regression}.
+\newblock
+\APACaddressPublisher{}{CRC Press}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Wright%
+}{%
+Wright%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+agridat}
+\APACinsertmetastar {%
+agridat}%
+\begin{APACrefauthors}%
+Wright, K.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {agridat: Agricultural Datasets} {agridat: Agricultural
+  datasets}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\newblock
+\begin{APACrefURL} \url{https://CRAN.R-project.org/package=agridat}
+  \end{APACrefURL}
+\newblock
+\APACrefnote{R package version 1.12}
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

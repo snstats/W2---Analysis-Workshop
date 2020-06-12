@@ -1,0 +1,15 @@
+\frametitle{Latin Square ANOVA Table}
+
+\begin{lstlisting}[mathescape=true]
+Source of Variation                      df
+============================================================
+Row                                      (t-1)
+Column                                   (t-1)
+Treatment                                (t-1)
+Residual                                 (t-1)(t-2)
+============================================================
+Total                                    (t$^2$ - 1)
+\end{lstlisting}
+
+where $t$ are the number of treatments.
+

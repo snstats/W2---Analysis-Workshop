@@ -1,0 +1,37 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdftex 2018.3.7)  7 MAR 2018 20:13
+entering extended mode
+**D:/UofA/W2/Workbook/W2b.beamer
+(D:/UofA/W2/Workbook/W2b.beamer
+! Undefined control sequence.
+l.1 \makeatletter
+                 \let\ifGm@compatii\relax\makeatother
+? q
+OK, entering \batchmode...
+! Undefined control sequence.
+l.1 ...tletter\let\ifGm@compatii\relax\makeatother
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.2 \documentclass
+                  [ignorenonframetext, aspectratio = 169]{beamer}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! I can't find file `{W2b.tex}'.
+l.3 \input{W2b.tex}
+                   
+Please type another input file name
+! Emergency stop.
+l.3 \input{W2b.tex}
+                   
+*** (job aborted, file error in nonstop mode)
+
+!  ==> Fatal error occurred, no output PDF file produced!

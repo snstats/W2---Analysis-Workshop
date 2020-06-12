@@ -1,0 +1,2572 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2019.8.20)  20 FEB 2020 08:52
+entering extended mode
+**"D:/UofA/W2/Workbook/W2 Linear Models.tex"
+("D:/UofA/W2/Workbook/W2 Linear Models.tex"
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\memoir\memoir.cls
+Document Class: memoir 2018/12/12 v3.7h configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count79
+\c@@memmarkcntra=\count80
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\ifetex\ifetex.sty
+Package: ifetex 2018/03/31 v1.2a ifetex
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\plain\ifetex\ifetex.tex))
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fleqn.clo"
+File: fleqn.clo 2016/12/29 v1.2a Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\memoir\mem10.clo
+File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count81
+\memPD=\dimen103
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count82
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count90
+\c@@ppsaveapp=\count91
+\ragrparindent=\dimen104
+\everylistparindent=\dimen105
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen106
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count92
+\c@poemline=\count93
+\c@modulo@vs=\count94
+\c@memfvsline=\count95
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen107
+\c@verse=\count96
+\c@chrsinstr=\count97
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count98
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen108
+\extrarowheight=\dimen109
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+)
+
+LaTeX Warning: You have requested, on input line 5261, version
+               `2018/04/30' of package array,
+               but only version
+               `2016/10/06 v2.4d Tabular extension package (FMi)'
+               is available.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\dcolumn.sty"
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\delarray.sty"
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
+Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
+\TX@col@width=\dimen110
+\TX@old@table=\dimen111
+\TX@old@col=\dimen112
+\TX@target=\dimen113
+\TX@delta=\dimen114
+\TX@cols=\count99
+\TX@ftn=\toks16
+)
+\heavyrulewidth=\dimen115
+\lightrulewidth=\dimen116
+\cmidrulewidth=\dimen117
+\belowrulesep=\dimen118
+\belowbottomsep=\dimen119
+\aboverulesep=\dimen120
+\abovetopsep=\dimen121
+\cmidrulesep=\dimen122
+\cmidrulekern=\dimen123
+\defaultaddspace=\dimen124
+\@cmidla=\count100
+\@cmidlb=\count101
+\@aboverulesep=\dimen125
+\@belowrulesep=\dimen126
+\@thisruleclass=\count102
+\@lastruleclass=\count103
+\@thisrulewidth=\dimen127
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count104
+\@linestogo=\count105
+\@cellstogo=\count106
+\@cellsincolumn=\count107
+\crtok=\toks17
+\@mincolumnwidth=\dimen128
+\c@newflo@tctr=\count108
+\mem@margin@floatbox=\box26
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen129
+\c@@contsubnum=\count109
+\m@mscap@capbox=\box27
+\m@mscap@fbox=\box28
+\sidecapsep=\dimen130
+\sidecapwidth=\dimen131
+\m@m@tempdima=\dimen132
+\m@mscapraise=\dimen133
+\sidecapraise=\dimen134
+\m@mscapmainwidth=\dimen135
+\m@mscaplkern=\dimen136
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7592.
+LaTeX Info: Redefining \emph on input line 7600.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen137
+\cftbooknumwidth=\dimen138
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen139
+\c@maxsecnumdepth=\count110
+\bibindent=\dimen140
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert199
+\glossarycolsep=\dimen141
+\glossaryrule=\dimen142
+\sideparvshift=\skip156
+\sideins=\insert198
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert197
+\@mpfootinsv@r=\insert196
+\m@m@k=\count111
+\m@m@h=\dimen143
+\m@mipn@skip=\skip165
+\sidefootins=\insert195
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count112
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count113
+\c@pagenoteshadow=\count114
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count115
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count116
+\c@bvlinectr=\count117
+\bvnumlength=\skip178
+\fb@frw=\dimen144
+\fb@frh=\dimen145
+\FrameRule=\dimen146
+\FrameSep=\dimen147
+\c@cp@cntr=\count118
+LaTeX Info: Redefining \: on input line 12114.
+LaTeX Info: Redefining \! on input line 12116.
+\c@ism@mctr=\count119
+\c@xsm@mctr=\count120
+\c@csm@mctr=\count121
+\c@ksm@mctr=\count122
+\c@xksm@mctr=\count123
+\c@cksm@mctr=\count124
+\c@msm@mctr=\count125
+\c@xmsm@mctr=\count126
+\c@cmsm@mctr=\count127
+\c@bsm@mctr=\count128
+\c@workm@mctr=\count129
+\c@sheetsequence=\count130
+\c@lastsheet=\count131
+\c@lastpage=\count132
+\c@figure=\count133
+\c@lofdepth=\count134
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count135
+\c@lotdepth=\count136
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon.tex
+\pgfutil@everybye=\toks22
+\pgfutil@tempdima=\dimen148
+\pgfutil@tempdimb=\dimen149
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon-lists.tex))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-la
+tex.def
+\pgfutil@abb=\box29
+ (C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.cod
+e.tex
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\pgf.revision.tex)
+Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+))
+Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/12/07 v1.0i Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.c
+ode.tex
+Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex
+\pgfkeys@pathtoks=\toks24
+\pgfkeys@temptoks=\toks25
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfil
+tered.code.tex
+\pgfkeys@tmptoks=\toks26
+))
+\pgf@x=\dimen152
+\pgf@y=\dimen153
+\pgf@xa=\dimen154
+\pgf@ya=\dimen155
+\pgf@xb=\dimen156
+\pgf@yb=\dimen157
+\pgf@xc=\dimen158
+\pgf@yc=\dimen159
+\pgf@xd=\dimen160
+\pgf@yd=\dimen161
+\w@pgf@writea=\write4
+\r@pgf@reada=\read2
+\c@pgf@counta=\count137
+\c@pgf@countb=\count138
+\c@pgf@countc=\count139
+\c@pgf@countd=\count140
+\t@pgf@toka=\toks27
+\t@pgf@tokb=\toks28
+\t@pgf@tokc=\toks29
+\pgf@sys@id@count=\count141
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-p
+dftex.def
+File: pgfsys-pdftex.def 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-c
+ommon-pdf.def
+File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
+)))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysso
+ftpath.code.tex
+File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfsyssoftpath@smallbuffer@items=\count142
+\pgfsyssoftpath@bigbuffer@items=\count143
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyspr
+otocol.code.tex
+File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.c
+ode.tex
+Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.cod
+e.tex
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.cod
+e.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.c
+ode.tex
+\pgfmath@dimen=\dimen162
+\pgfmath@count=\count144
+\pgfmath@box=\box30
+\pgfmath@toks=\toks30
+\pgfmath@stack@operand=\toks31
+\pgfmath@stack@operation=\toks32
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.code.tex
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.basic.code.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.trigonometric.code.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.random.code.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.comparison.code.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.base.code.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.round.code.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.misc.code.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.integerarithmetics.code.tex)))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.co
+de.tex
+\c@pgfmathroundto@lastzeros=\count145
+))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfint.code.tex
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepo
+ints.code.tex
+File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@picminx=\dimen163
+\pgf@picmaxx=\dimen164
+\pgf@picminy=\dimen165
+\pgf@picmaxy=\dimen166
+\pgf@pathminx=\dimen167
+\pgf@pathmaxx=\dimen168
+\pgf@pathminy=\dimen169
+\pgf@pathmaxy=\dimen170
+\pgf@xx=\dimen171
+\pgf@xy=\dimen172
+\pgf@yx=\dimen173
+\pgf@yy=\dimen174
+\pgf@zx=\dimen175
+\pgf@zy=\dimen176
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@path@lastx=\dimen177
+\pgf@path@lasty=\dimen178
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thusage.code.tex
+File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@shorten@end@additional=\dimen179
+\pgf@shorten@start@additional=\dimen180
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresc
+opes.code.tex
+File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfpic=\box31
+\pgf@hbox=\box32
+\pgf@layerbox@main=\box33
+\pgf@picture@serial@count=\count146
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregr
+aphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgflinewidth=\dimen181
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
+ansformations.code.tex
+File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@pt@x=\dimen182
+\pgf@pt@y=\dimen183
+\pgf@pt@temp=\dimen184
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorequ
+ick.code.tex
+File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreob
+jects.code.tex
+File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorear
+rows.code.tex
+File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfarrowsep=\dimen185
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresh
+ade.code.tex
+File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@max=\dimen186
+\pgf@sys@shading@range@num=\count147
+\pgf@shadingcount=\count148
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreim
+age.code.tex
+File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreex
+ternal.code.tex
+File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfexternal@startupbox=\box34
+))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorela
+yers.code.tex
+File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
+ansparency.code.tex
+File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+tterns.code.tex
+File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorerd
+f.code.tex
+File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulesha
+pes.code.tex
+File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfnodeparttextbox=\box35
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleplo
+t.code.tex
+File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-0-65.sty
+Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@nodesepstart=\dimen187
+\pgf@nodesepend=\dimen188
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-1-18.sty
+Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+ ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+\Gm@cnth=\count149
+\Gm@cntv=\count150
+\c@Gm@tempcnt=\count151
+\Gm@bindingoffset=\dimen189
+\Gm@wd@mp=\dimen190
+\Gm@odd@mp=\dimen191
+\Gm@even@mp=\dimen192
+\Gm@layoutwidth=\dimen193
+\Gm@layoutheight=\dimen194
+\Gm@layouthoffset=\dimen256
+\Gm@layoutvoffset=\dimen257
+\Gm@dimlist=\toks33
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\apacite\apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count152
+\bibleftmargin=\skip185
+\bibindent=\skip186
+\bibparsep=\skip187
+\bibitemsep=\skip188
+\biblabelsep=\skip189
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\adjustbox.sty
+Package: adjustbox 2019/01/04 v1.2 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks34
+\XKV@tempa@toks=\toks35
+)
+\XKV@depth=\count153
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\trimclip.sty
+Package: trimclip 2018/04/08 v1.1 Trim and clip general TeX material
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\collectbox\collectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box36
+)
+\tc@llx=\dimen258
+\tc@lly=\dimen259
+\tc@urx=\dimen260
+\tc@ury=\dimen261
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\adjustbox\tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen262
+\adjbox@Height=\dimen263
+\adjbox@Depth=\dimen264
+\adjbox@Totalheight=\dimen265
+\adjbox@pwidth=\dimen266
+\adjbox@pheight=\dimen267
+\adjbox@pdepth=\dimen268
+\adjbox@ptotalheight=\dimen269
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\ifoddpage\ifoddpage.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count154
+LaTeX Info: Redefining \checkoddpage on input line 45.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box37
+\sift@deathcycles=\count155
+\@vwid@loff=\dimen270
+\@vwid@roff=\dimen271
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip190
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks36
+\ex@=\dimen272
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen273
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count156
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count157
+\leftroot@=\count158
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count159
+\DOTSCASE@=\count160
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box38
+\strutbox@=\box39
+\big@size=\dimen274
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count161
+\c@MaxMatrixCols=\count162
+\dotsspace@=\muskip10
+\c@parentequation=\count163
+\dspbrk@lvl=\count164
+\tag@help=\toks37
+\row@=\count165
+\column@=\count166
+\maxfields@=\count167
+\andhelp@=\toks38
+\eqnshift@=\dimen275
+\alignsep@=\dimen276
+\tagshift@=\dimen277
+\tagwidth@=\dimen278
+\totwidth@=\dimen279
+\lineht@=\dimen280
+\@envbody=\toks39
+\multlinegap=\skip191
+\multlinetaggap=\skip192
+\mathdisplay@stack=\toks40
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count168
+\mult@box=\box40
+\multicol@leftmargin=\dimen281
+\c@unbalance=\count169
+\c@collectmore=\count170
+\doublecol@number=\count171
+\multicoltolerance=\count172
+\multicolpretolerance=\count173
+\full@width=\dimen282
+\page@free=\dimen283
+\premulticols=\dimen284
+\postmulticols=\dimen285
+\multicolsep=\skip193
+\multicolbaselineskip=\skip194
+\partial@page=\box41
+\last@line=\box42
+\maxbalancingoverflow=\dimen286
+\mult@rightbox=\box43
+\mult@grightbox=\box44
+\mult@gfirstbox=\box45
+\mult@firstbox=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\c@columnbadness=\count174
+\c@finalcolumnbadness=\count175
+\last@try=\dimen287
+\multicolovershoot=\dimen288
+\multicolundershoot=\dimen289
+\mult@nat@firstbox=\box64
+\colbreak@box=\box65
+\mc@col@check@num=\count176
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip256
+\multirow@cntb=\count177
+\multirow@dima=\skip257
+\bigstrutjot=\dimen290
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\wasysym\wasysym.sty
+Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
+\symwasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks41
+\inpenc@posthook=\toks42
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+0232 (decimal 562)
+   defining Unicode char U+0233 (decimal 563)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+1E20 (decimal 7712)
+   defining Unicode char U+1E21 (decimal 7713)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\todonotes\todonotes.sty
+Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
+Package: todonotes 2018/11/22
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.sty
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.cod
+e.tex
+Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x)
+\pgffor@iter=\dimen291
+\pgffor@skip=\dimen292
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
+))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\t
+ikz.code.tex
+Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrary
+plothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@plot@mark@count=\count178
+\pgfplotmarksize=\dimen293
+)
+\tikz@lastx=\dimen294
+\tikz@lasty=\dimen295
+\tikz@lastxsaved=\dimen296
+\tikz@lastysaved=\dimen297
+\tikz@lastmovetox=\dimen298
+\tikz@lastmovetoy=\dimen299
+\tikzleveldistance=\dimen300
+\tikzsiblingdistance=\dimen301
+\tikz@figbox=\box66
+\tikz@figbox@bg=\box67
+\tikz@tempbox=\box68
+\tikz@tempbox@bg=\box69
+\tikztreelevel=\count179
+\tikznumberofchildren=\count180
+\tikznumberofcurrentchild=\count181
+\tikz@fig@count=\count182
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulemat
+rix.code.tex
+File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfmatrixcurrentrow=\count183
+\pgfmatrixcurrentcolumn=\count184
+\pgf@matrix@numberofcolumns=\count185
+)
+\tikz@expandcount=\count186
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
+ibraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
+ibraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
+ibraries\tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
+ibraries\tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrary
+fadings.code.tex
+File: pgflibraryfadings.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+))) ("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count187
+\calc@Bcount=\count188
+\calc@Adimen=\dimen302
+\calc@Bdimen=\dimen303
+\calc@Askip=\skip258
+\calc@Bskip=\skip259
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count189
+\calc@Cskip=\skip260
+)
+\c@@todonotes@numberoftodonotes=\count190
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcolorbox.sty"
+Package: tcolorbox 2018/01/12 version 4.12 text color boxes
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\environ\environ.sty
+Package: environ 2014/05/04 v0.3 A new way to define environments
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\trimspaces\trimspaces.sty
+Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
+)) (C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count191
+)
+\tcb@titlebox=\box70
+\tcb@upperbox=\box71
+\tcb@lowerbox=\box72
+\tcb@phantombox=\box73
+\c@tcbbreakpart=\count192
+\c@tcblayer=\count193
+\tcolorbox@number=\count194
+\tcb@temp=\box74
+\tcb@temp=\box75
+\tcb@temp=\box76
+\tcb@temp=\box77
+\tcb@out=\write5
+\tcb@record@out=\write6
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\pdflscape.sty"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\iwona.sty
+Package: iwona 2005/10/03 v.1.2 Iwona package (MW)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+iwonal on input line 10
+5.
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\t1iwonal.fd
+File: t1iwonal.fd 2008/07/22 v0.995 font definition file for T1/iwonal (MW)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count266
+\lst@gtempboxa=\box78
+\lst@token=\toks45
+\lst@length=\count267
+\lst@currlwidth=\dimen304
+\lst@column=\count268
+\lst@pos=\count269
+\lst@lostspace=\dimen305
+\lst@width=\dimen306
+\lst@newlines=\count270
+\lst@lineno=\count271
+\lst@maxwidth=\dimen307
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count272
+\lst@skipnumbers=\count273
+\lst@framebox=\box79
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+LaTeX Font Info:    Try loading font information for T1+ppl on input line 46.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ppl.fd"
+File: t1ppl.fd 2001/06/04 font definitions for T1/ppl.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbskins.code.tex"
+Library (tcolorbox): 'tcbskins.code.tex' version '4.12'
+\tcb@waterbox=\box80
+("C:\Program Files\MiKTeX 2.9\tex\latex\tcolorbox\tcbskinsjigsaw.code.tex"
+Library (tcolorbox): 'tcbskinsjigsaw.code.tex' version '4.12'
+))
+
+LaTeX Warning: Unused global option(s):
+    [twosided].
+
+("W2 Linear Models.aux")
+\openout1 = `"W2 Linear Models.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 134.
+LaTeX Font Info:    ... okay on input line 134.
+ ABD: EveryShipout initializing macros
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\context\base\mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count274
+\scratchdimen=\dimen308
+\scratchbox=\box81
+\nofMPsegments=\count275
+\nofMParguments=\count276
+\everyMPshowfont=\toks46
+\MPscratchCnt=\count277
+\MPscratchDim=\dimen309
+\MPnumerator=\count278
+\makeMPintoPDFobject=\count279
+\everyMPtoPDFconversion=\toks47
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24408pt, 71.13191pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24408pt
+* \textheight=702.78308pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.13808pt
+* \topmargin=-31.2056pt
+* \headheight=12.0pt
+* \headsep=18.06749pt
+* \topskip=10.0pt
+* \footskip=25.29494pt
+* \marginparwidth=117.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 4.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@maskedRefs=\count280
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\apacite\english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+\c@lstlisting=\count281
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 147.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+Overfull \hbox (10.41293pt too wide) in paragraph at lines 147--148
+ []\T1/cmtt/m/n/10.95 sharon.nielsen@adelaide.edu.au
+ []
+
+LaTeX Font Info:    Try loading font information for U+wasy on input line 150.
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\wasysym\uwasy.fd
+File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
+)
+<SARDI.jpg, id=28, 61.22874pt x 112.42pt>
+File: SARDI.jpg Graphic file (type jpg)
+<use SARDI.jpg>
+Package pdftex.def Info: SARDI.jpg  used on input line 155.
+(pdftex.def)             Requested size: 15.4968pt x 28.45274pt.
+<SAGI.png, id=29, 453.19313pt x 189.70876pt>
+File: SAGI.png Graphic file (type png)
+<use SAGI.png>
+Package pdftex.def Info: SAGI.png  used on input line 156.
+(pdftex.def)             Requested size: 67.96912pt x 28.45274pt.
+<UoAsmall.png, id=30, 90.3375pt x 90.3375pt>
+File: UoAsmall.png Graphic file (type png)
+<use UoAsmall.png>
+Package pdftex.def Info: UoAsmall.png  used on input line 157.
+(pdftex.def)             Requested size: 28.45232pt x 28.45274pt.
+<BiometryHub.png, id=31, 1866.975pt x 1254.6875pt>
+File: BiometryHub.png Graphic file (type png)
+<use BiometryHub.png>
+Package pdftex.def Info: BiometryHub.png  used on input line 158.
+(pdftex.def)             Requested size: 42.33273pt x 28.45274pt.
+<GRDC.png, id=33, 212.29312pt x 108.405pt>
+File: GRDC.png Graphic file (type png)
+<use GRDC.png>
+Package pdftex.def Info: GRDC.png  used on input line 159.
+(pdftex.def)             Requested size: 55.71968pt x 28.45274pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--161
+
+ []
+
+[1
+
+{C:/Users/sharo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./SARDI.jpg
+> <./SAGI.png> <./UoAsmall.png> <./BiometryHub.png> <./GRDC.png>] [2
+
+]
+("W2 Linear Models.toc" [1
+
+]
+Overfull \hbox (0.87994pt too wide) detected at line 78
+ \T1/iwonal/b/n/10 112
+ []
+
+)
+
+LaTeX Font Warning: Font shape `T1/iwonal/m/sl' undefined
+(Font)              using `T1/iwonal/m/n' instead on input line 168.
+
+[2]
+<welham.jpg, id=54, 85.7604pt x 121.1727pt>
+File: welham.jpg Graphic file (type jpg)
+<use welham.jpg>
+Package pdftex.def Info: welham.jpg  used on input line 177.
+(pdftex.def)             Requested size: 227.62204pt x 321.64969pt.
+ [3
+
+
+ <./welham.jpg>] [4
+
+]
+<LMFlowChart.jpg, id=61, 1843.8486pt x 1363.2531pt>
+File: LMFlowChart.jpg Graphic file (type jpg)
+<use LMFlowChart.jpg>
+Package pdftex.def Info: LMFlowChart.jpg  used on input line 208.
+(pdftex.def)             Requested size: 569.05511pt x 420.73195pt.
+ [5 <./LMFlowChart.jpg>]
+<datatypes.png, id=66, 841.2228pt x 577.1964pt>
+File: datatypes.png Graphic file (type png)
+<use datatypes.png>
+Package pdftex.def Info: datatypes.png  used on input line 219.
+(pdftex.def)             Requested size: 341.43306pt x 234.26527pt.
+ [6
+
+
+
+ <./datatypes.png>]
+LaTeX Font Info:    Try loading font information for OMS+iwonal on input line 2
+96.
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\omsiwonal.fd
+File: omsiwonal.fd 2008/07/22 v0.995 font definition file for OMS/iwonal (MW)
+)
+[7
+
+] [8
+
+
+]
+<CRDnullNormDensity.png, id=78, 284.5029pt x 170.5572pt>
+File: CRDnullNormDensity.png Graphic file (type png)
+<use CRDnullNormDensity.png>
+Package pdftex.def Info: CRDnullNormDensity.png  used on input line 322.
+(pdftex.def)             Requested size: 284.5022pt x 170.55678pt.
+ [9 <./CRDnullNormDensity.png>]
+<CRDAlternativeNormDensity.png, id=88, 284.5029pt x 170.5572pt>
+File: CRDAlternativeNormDensity.png Graphic file (type png)
+<use CRDAlternativeNormDensity.png>
+Package pdftex.def Info: CRDAlternativeNormDensity.png  used on input line 329.
+
+(pdftex.def)             Requested size: 284.5022pt x 170.55678pt.
+ [10
+
+ <./CRDAlternativeNormDensity.png>]
+<crdbucket.png, id=93, 273.9033pt x 318.4698pt>
+File: crdbucket.png Graphic file (type png)
+<use crdbucket.png>
+Package pdftex.def Info: crdbucket.png  used on input line 395.
+(pdftex.def)             Requested size: 113.81102pt x 132.32771pt.
+
+[11
+
+ <./crdbucket.png>]
+<hypcrd_boxplot.pdf, id=98, 476.78125pt x 475.7775pt>
+File: hypcrd_boxplot.pdf Graphic file (type pdf)
+<use hypcrd_boxplot.pdf>
+Package pdftex.def Info: hypcrd_boxplot.pdf  used on input line 437.
+(pdftex.def)             Requested size: 273.14922pt x 272.58986pt.
+<hypcrd_overallmean.pdf, id=99, 476.78125pt x 475.7775pt>
+File: hypcrd_overallmean.pdf Graphic file (type pdf)
+<use hypcrd_overallmean.pdf>
+Package pdftex.def Info: hypcrd_overallmean.pdf  used on input line 448.
+(pdftex.def)             Requested size: 273.14922pt x 272.58986pt.
+ [12
+
+ <./hypcrd_boxplot.pdf> <./hypcrd_overallmean.pdf>]
+<hypcrd_totss.pdf, id=114, 476.78125pt x 475.7775pt>
+File: hypcrd_totss.pdf Graphic file (type pdf)
+<use hypcrd_totss.pdf>
+Package pdftex.def Info: hypcrd_totss.pdf  used on input line 461.
+(pdftex.def)             Requested size: 273.14922pt x 272.58986pt.
+<hypcrd_trtmean.pdf, id=115, 476.78125pt x 475.7775pt>
+File: hypcrd_trtmean.pdf Graphic file (type pdf)
+<use hypcrd_trtmean.pdf>
+Package pdftex.def Info: hypcrd_trtmean.pdf  used on input line 473.
+(pdftex.def)             Requested size: 273.14922pt x 272.58986pt.
+
+[13 <./hypcrd_totss.pdf> <./hypcrd_trtmean.pdf>]
+<hypcrd_trtss.pdf, id=131, 476.78125pt x 475.7775pt>
+File: hypcrd_trtss.pdf Graphic file (type pdf)
+<use hypcrd_trtss.pdf>
+Package pdftex.def Info: hypcrd_trtss.pdf  used on input line 484.
+(pdftex.def)             Requested size: 273.14922pt x 272.58986pt.
+<compAcrd.png, id=132, 355.0866pt x 313.17pt>
+File: compAcrd.png Graphic file (type png)
+<use compAcrd.png>
+Package pdftex.def Info: compAcrd.png  used on input line 525.
+(pdftex.def)             Requested size: 364.19664pt x 321.22113pt.
+ [14 <./hypcrd_trtss.pdf>]
+[15 <./compAcrd.png>]
+<example1_boxplot.pdf, id=148, 476.78125pt x 475.7775pt>
+File: example1_boxplot.pdf Graphic file (type pdf)
+<use example1_boxplot.pdf>
+Package pdftex.def Info: example1_boxplot.pdf  used on input line 584.
+(pdftex.def)             Requested size: 339.15819pt x 338.46501pt.
+ [16] [17 <./example1_boxplot.pdf>]
+LaTeX Font Info:    Try loading font information for T1+cmss on input line 640.
+
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmss.fd"
+File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) [18]
+<Example1Resplot.png, id=166, 636.3775pt x 635.37375pt>
+File: Example1Resplot.png Graphic file (type png)
+<use Example1Resplot.png>
+Package pdftex.def Info: Example1Resplot.png  used on input line 685.
+(pdftex.def)             Requested size: 339.15819pt x 338.61761pt.
+ [19]
+Overfull \hbox (6.44876pt too wide) in paragraph at lines 735--735
+[]\T1/cmtt/m/n/10 Independence (Assumption 3) can safely be made given knowledg
+e of the experimental 
+ []
+
+[20 <./Example1Resplot.png>] [21] [22
+
+] [23]
+<Example1Pred.png, id=184, 477.2229pt x 476.5002pt>
+File: Example1Pred.png Graphic file (type png)
+<use Example1Pred.png>
+Package pdftex.def Info: Example1Pred.png  used on input line 943.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [24
+
+] [25 <./Example1Pred.png>]
+<example2_boxplot.pdf, id=192, 476.78125pt x 475.7775pt>
+File: example2_boxplot.pdf Graphic file (type pdf)
+<use example2_boxplot.pdf>
+Package pdftex.def Info: example2_boxplot.pdf  used on input line 985.
+(pdftex.def)             Requested size: 339.15819pt x 338.46501pt.
+
+[26
+
+] [27 <./example2_boxplot.pdf>]
+<Example2Resplot.png, id=205, 636.3775pt x 635.37375pt>
+File: Example2Resplot.png Graphic file (type png)
+<use Example2Resplot.png>
+Package pdftex.def Info: Example2Resplot.png  used on input line 1020.
+(pdftex.def)             Requested size: 339.15819pt x 338.61761pt.
+ [28
+
+ <./Example2Resplot.png>]
+Overfull \hbox (6.44876pt too wide) in paragraph at lines 1069--1069
+[]\T1/cmtt/m/n/10 Independence (Assumption 3) can safely be made given knowledg
+e of the experimental 
+ []
+
+[29] [30] [31]
+<Example2Pred.png, id=220, 477.2229pt x 476.5002pt>
+File: Example2Pred.png Graphic file (type png)
+<use Example2Pred.png>
+Package pdftex.def Info: Example2Pred.png  used on input line 1271.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [32
+
+] [33 <./Example2Pred.png>] [34
+
+] [35
+
+]
+<rcbdbucket.png, id=235, 192.72pt x 294.3798pt>
+File: rcbdbucket.png Graphic file (type png)
+<use rcbdbucket.png>
+Package pdftex.def Info: rcbdbucket.png  used on input line 1390.
+(pdftex.def)             Requested size: 113.81102pt x 173.84427pt.
+ [36
+
+ <./rcbdbucket.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1402--1419
+
+ []
+
+[37
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1481--1482
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1482--1483
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1483--1484
+
+ []
+
+[38
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1484--1485
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1485--1486
+
+ []
+
+<example3Var_boxplot.pdf, id=252, 476.78125pt x 475.7775pt>
+File: example3Var_boxplot.pdf Graphic file (type pdf)
+<use example3Var_boxplot.pdf>
+Package pdftex.def Info: example3Var_boxplot.pdf  used on input line 1525.
+(pdftex.def)             Requested size: 339.15819pt x 338.46501pt.
+<example3Blk_boxplot.pdf, id=253, 476.78125pt x 475.7775pt>
+File: example3Blk_boxplot.pdf Graphic file (type pdf)
+<use example3Blk_boxplot.pdf>
+Package pdftex.def Info: example3Blk_boxplot.pdf  used on input line 1527.
+(pdftex.def)             Requested size: 339.15819pt x 338.46501pt.
+[39]
+Overfull \vbox (29.21848pt too high) has occurred while \output is active []
+
+
+[40 <./example3Var_boxplot.pdf> <./example3Blk_boxplot.pdf>]
+Overfull \hbox (6.44876pt too wide) in paragraph at lines 1536--1536
+[]\T1/cmtt/m/n/10 dat.aov <- aov(Yield ~ Block + Variety, data = dat)          
+  # fitting the model 
+ []
+
+<Example3Resplot.png, id=272, 636.3775pt x 635.37375pt>
+File: Example3Resplot.png Graphic file (type png)
+<use Example3Resplot.png>
+Package pdftex.def Info: Example3Resplot.png  used on input line 1550.
+(pdftex.def)             Requested size: 339.15819pt x 338.61761pt.
+[41 <./Example3Resplot.png>]
+Overfull \hbox (6.44876pt too wide) in paragraph at lines 1596--1596
+[]\T1/cmtt/m/n/10 Independence (Assumption 3) can safely be made given knowledg
+e of the experimental 
+ []
+
+[42
+
+] [43]
+<Example3Pred.png, id=284, 477.2229pt x 476.5002pt>
+File: Example3Pred.png Graphic file (type png)
+<use Example3Pred.png>
+Package pdftex.def Info: Example3Pred.png  used on input line 1793.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [44
+
+] [45 <./Example3Pred.png>] [46
+
+]
+<lsbucket.png, id=295, 208.1376pt x 294.3798pt>
+File: lsbucket.png Graphic file (type png)
+<use lsbucket.png>
+Package pdftex.def Info: lsbucket.png  used on input line 1874.
+(pdftex.def)             Requested size: 113.81102pt x 160.97058pt.
+ [47
+
+ <./lsbucket.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1888--1907
+
+ []
+
+[48
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 1943--1944
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1944--1945
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1945--1946
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1946--1947
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1947--1948
+
+ []
+
+[49]
+<Example4trt_boxplot.pdf, id=306, 476.78125pt x 475.7775pt>
+File: Example4trt_boxplot.pdf Graphic file (type pdf)
+<use Example4trt_boxplot.pdf>
+Package pdftex.def Info: Example4trt_boxplot.pdf  used on input line 1995.
+(pdftex.def)             Requested size: 211.97307pt x 211.52792pt.
+<Example4row_boxplot.pdf, id=307, 476.78125pt x 475.7775pt>
+File: Example4row_boxplot.pdf Graphic file (type pdf)
+<use Example4row_boxplot.pdf>
+Package pdftex.def Info: Example4row_boxplot.pdf  used on input line 1996.
+(pdftex.def)             Requested size: 211.97307pt x 211.52792pt.
+<Example4col_boxplot.pdf, id=308, 476.78125pt x 475.7775pt>
+File: Example4col_boxplot.pdf Graphic file (type pdf)
+<use Example4col_boxplot.pdf>
+Package pdftex.def Info: Example4col_boxplot.pdf  used on input line 1997.
+(pdftex.def)             Requested size: 211.97307pt x 211.52792pt.
+
+Overfull \hbox (3.81998pt too wide) in paragraph at lines 1995--1998
+[][] []
+ []
+
+[50]
+<Example4Resplot.png, id=312, 636.3775pt x 635.37375pt>
+File: Example4Resplot.png Graphic file (type png)
+<use Example4Resplot.png>
+Package pdftex.def Info: Example4Resplot.png  used on input line 2020.
+(pdftex.def)             Requested size: 339.15819pt x 338.61761pt.
+ [51 <./Example4trt_boxplot.pdf> <./Example4row_boxplot.pdf> <./Example4col_box
+plot.pdf>] [52 <./Example4Resplot.png>]
+Overfull \hbox (6.44876pt too wide) in paragraph at lines 2067--2067
+[]\T1/cmtt/m/n/10 Independence (Assumption 3) can safely be made given knowledg
+e of the experimental 
+ []
+
+[53] [54]
+<Example4Pred.png, id=345, 477.2229pt x 476.5002pt>
+File: Example4Pred.png Graphic file (type png)
+<use Example4Pred.png>
+Package pdftex.def Info: Example4Pred.png  used on input line 2250.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [55
+
+] [56 <./Example4Pred.png>] [57
+
+] [58
+
+
+]
+<Example3LMMResplot.png, id=359, 636.3775pt x 635.37375pt>
+File: Example3LMMResplot.png Graphic file (type png)
+<use Example3LMMResplot.png>
+Package pdftex.def Info: Example3LMMResplot.png  used on input line 2365.
+(pdftex.def)             Requested size: 339.15819pt x 338.61761pt.
+ [59] [60 <./Example3LMMResplot.png>]
+Overfull \hbox (6.44876pt too wide) in paragraph at lines 2405--2405
+[]\T1/cmtt/m/n/10 Independence (Assumption 3) can safely be made given knowledg
+e of the experimental 
+ []
+
+[61]
+Overfull \hbox (18.42975pt too wide) in paragraph at lines 2506--2507
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[62]
+Overfull \hbox (16.9462pt too wide) in paragraph at lines 2528--2528
+[]  \T1/cmtt/m/n/10 predicted.value   Variety std.error    status groups       
+ci         low       up 
+ []
+
+
+Overfull \hbox (16.9462pt too wide) in paragraph at lines 2529--2529
+[]\T1/cmtt/m/n/10 1           1.680 Parafield 0.8124417 Estimable      a 1.7222
+99 -0.04229944 3.402299[] 
+ []
+
+
+Overfull \hbox (16.9462pt too wide) in paragraph at lines 2530--2530
+[]\T1/cmtt/m/n/10 2           2.676     Kaspa 0.8124417 Estimable     ab 1.7222
+99  0.95370056 4.398299[] 
+ []
+
+
+Overfull \hbox (16.9462pt too wide) in paragraph at lines 2531--2531
+[]\T1/cmtt/m/n/10 3           4.724    Yarrum 0.8124417 Estimable      b 1.7222
+99  3.00170056 6.446299[] 
+ []
+
+
+Overfull \hbox (16.9462pt too wide) in paragraph at lines 2532--2532
+[]\T1/cmtt/m/n/10 4           4.848    Excell 0.8124417 Estimable      b 1.7222
+99  3.12570056 6.570299[] 
+ []
+
+<Example3LMMPred.png, id=374, 477.2229pt x 476.5002pt>
+File: Example3LMMPred.png Graphic file (type png)
+<use Example3LMMPred.png>
+Package pdftex.def Info: Example3LMMPred.png  used on input line 2566.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+[63
+
+] [64 <./Example3LMMPred.png>] [65
+
+]
+<Example4LMMResplot.png, id=386, 636.3775pt x 635.37375pt>
+File: Example4LMMResplot.png Graphic file (type png)
+<use Example4LMMResplot.png>
+Package pdftex.def Info: Example4LMMResplot.png  used on input line 2607.
+(pdftex.def)             Requested size: 339.15819pt x 338.61761pt.
+
+Overfull \hbox (6.44876pt too wide) in paragraph at lines 2647--2647
+[]\T1/cmtt/m/n/10 Independence (Assumption 3) can safely be made given knowledg
+e of the experimental 
+ []
+
+[66
+
+ <./Example4LMMResplot.png>] [67] [68]
+<Example4LMMPred.png, id=397, 477.2229pt x 476.5002pt>
+File: Example4LMMPred.png Graphic file (type png)
+<use Example4LMMPred.png>
+Package pdftex.def Info: Example4LMMPred.png  used on input line 2811.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [69] [70 <./Example4LMMPred.png>]
+[71
+
+] [72]
+<SPBucket.png, id=412, 224.5188pt x 294.3798pt>
+File: SPBucket.png Graphic file (type png)
+<use SPBucket.png>
+Package pdftex.def Info: SPBucket.png  used on input line 2972.
+(pdftex.def)             Requested size: 113.81102pt x 149.22435pt.
+
+Overfull \hbox (1.99817pt too wide) in paragraph at lines 2979--2982
+[]\T1/iwonal/m/sl/10 The data for the split-plot ex-am-ple is from the \T1/cmtt
+/m/n/10 agridat \T1/iwonal/m/sl/10 pack-age []Wright, 2015) and is called \T1/c
+mtt/m/n/10 durban.splitplot\T1/iwonal/m/sl/10 .
+ []
+
+[73
+
+] [74 <./SPBucket.png>]
+<example5_Genoboxplot.pdf, id=419, 476.78125pt x 475.7775pt>
+File: example5_Genoboxplot.pdf Graphic file (type pdf)
+<use example5_Genoboxplot.pdf>
+Package pdftex.def Info: example5_Genoboxplot.pdf  used on input line 3032.
+(pdftex.def)             Requested size: 211.97307pt x 211.52792pt.
+<example5_Fungboxplot.pdf, id=420, 476.78125pt x 475.7775pt>
+File: example5_Fungboxplot.pdf Graphic file (type pdf)
+<use example5_Fungboxplot.pdf>
+Package pdftex.def Info: example5_Fungboxplot.pdf  used on input line 3033.
+(pdftex.def)             Requested size: 211.97307pt x 211.52792pt.
+<example5_Blockboxplot.pdf, id=421, 476.78125pt x 475.7775pt>
+File: example5_Blockboxplot.pdf Graphic file (type pdf)
+<use example5_Blockboxplot.pdf>
+Package pdftex.def Info: example5_Blockboxplot.pdf  used on input line 3034.
+(pdftex.def)             Requested size: 211.97307pt x 211.52792pt.
+
+Overfull \hbox (3.81998pt too wide) in paragraph at lines 3032--3035
+[][] []
+ []
+
+[75
+
+]
+<Example5Resplot.png, id=425, 636.3775pt x 635.37375pt>
+File: Example5Resplot.png Graphic file (type png)
+<use Example5Resplot.png>
+Package pdftex.def Info: Example5Resplot.png  used on input line 3060.
+(pdftex.def)             Requested size: 339.15819pt x 338.61761pt.
+ [76 <./example5_Genoboxplot.pdf> <./example5_Fungboxplot.pdf> <./example5_Bloc
+kboxplot.pdf>] [77 <./Example5Resplot.png>]
+<Example5Resplot2.png, id=452, 636.3775pt x 635.37375pt>
+File: Example5Resplot2.png Graphic file (type png)
+<use Example5Resplot2.png>
+Package pdftex.def Info: Example5Resplot2.png  used on input line 3134.
+(pdftex.def)             Requested size: 339.15819pt x 338.61761pt.
+ [78] [79 <./Example5Resplot2.png>] [80]
+<Example5GenoPred.png, id=463, 477.2229pt x 476.5002pt>
+File: Example5GenoPred.png Graphic file (type png)
+<use Example5GenoPred.png>
+Package pdftex.def Info: Example5GenoPred.png  used on input line 3247.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [81
+
+] [82 <./Example5GenoPred.png>]
+Overfull \hbox (6.44876pt too wide) in paragraph at lines 3292--3292
+[]\T1/cmtt/m/n/10 geom_text(aes(x = Fungicide, y = up, label = groups), vjust =
+ 0, nudge_y = 0.05) +[] 
+ []
+
+<Example5FungPred.png, id=471, 477.2229pt x 476.5002pt>
+File: Example5FungPred.png Graphic file (type png)
+<use Example5FungPred.png>
+Package pdftex.def Info: Example5FungPred.png  used on input line 3301.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+[83
+
+ <./Example5FungPred.png>] [84
+
+] [85] [86
+
+] [87] [88
+
+]
+<example6_Treatboxplot.pdf, id=492, 476.78125pt x 475.7775pt>
+File: example6_Treatboxplot.pdf Graphic file (type pdf)
+<use example6_Treatboxplot.pdf>
+Package pdftex.def Info: example6_Treatboxplot.pdf  used on input line 3556.
+(pdftex.def)             Requested size: 254.37025pt x 253.83788pt.
+<example6_Blockboxplot.pdf, id=493, 476.78125pt x 475.7775pt>
+File: example6_Blockboxplot.pdf Graphic file (type pdf)
+<use example6_Blockboxplot.pdf>
+Package pdftex.def Info: example6_Blockboxplot.pdf  used on input line 3558.
+(pdftex.def)             Requested size: 254.37025pt x 253.83788pt.
+ [89]
+<Example6Resplot.png, id=498, 636.3775pt x 635.37375pt>
+File: Example6Resplot.png Graphic file (type png)
+<use Example6Resplot.png>
+Package pdftex.def Info: Example6Resplot.png  used on input line 3585.
+(pdftex.def)             Requested size: 339.15819pt x 338.61761pt.
+ [90 <./example6_Treatboxplot.pdf> <./example6_Blockboxplot.pdf>] [91 <./Exampl
+e6Resplot.png>]
+<Example6Variogram.png, id=517, 99.7326pt x 95.3964pt>
+File: Example6Variogram.png Graphic file (type png)
+<use Example6Variogram.png>
+Package pdftex.def Info: Example6Variogram.png  used on input line 3648.
+(pdftex.def)             Requested size: 339.15819pt x 324.45543pt.
+
+[92] [93 <./Example6Variogram.png>]
+<Example6Pred.png, id=524, 477.2229pt x 476.5002pt>
+File: Example6Pred.png Graphic file (type png)
+<use Example6Pred.png>
+Package pdftex.def Info: Example6Pred.png  used on input line 3728.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [94
+
+] [95 <./Example6Pred.png>] [96
+
+]
+[97
+
+] [98
+
+] [99]
+Overfull \hbox (42.21954pt too wide) in alignment at lines 3876--3879
+ [][][] []
+ []
+
+[100]
+<example7_Herbboxplot.pdf, id=548, 476.78125pt x 475.7775pt>
+File: example7_Herbboxplot.pdf Graphic file (type pdf)
+<use example7_Herbboxplot.pdf>
+Package pdftex.def Info: example7_Herbboxplot.pdf  used on input line 3933.
+(pdftex.def)             Requested size: 254.37025pt x 253.83788pt.
+<example7_Rateboxplot.pdf, id=549, 476.78125pt x 475.7775pt>
+File: example7_Rateboxplot.pdf Graphic file (type pdf)
+<use example7_Rateboxplot.pdf>
+Package pdftex.def Info: example7_Rateboxplot.pdf  used on input line 3935.
+(pdftex.def)             Requested size: 254.37025pt x 253.83788pt.
+ [101]
+<Example7Resplot.png, id=554, 636.3775pt x 635.37375pt>
+File: Example7Resplot.png Graphic file (type png)
+<use Example7Resplot.png>
+Package pdftex.def Info: Example7Resplot.png  used on input line 3962.
+(pdftex.def)             Requested size: 339.15819pt x 338.61761pt.
+ [102 <./example7_Herbboxplot.pdf> <./example7_Rateboxplot.pdf>]
+[103 <./Example7Resplot.png>]
+File: Example6Variogram.png Graphic file (type png)
+<use Example6Variogram.png>
+Package pdftex.def Info: Example6Variogram.png  used on input line 4016.
+(pdftex.def)             Requested size: 254.37025pt x 243.3434pt.
+ [104] [105]
+Overfull \hbox (6.44876pt too wide) in paragraph at lines 4108--4108
+[]\T1/cmtt/m/n/10 geom_text(aes(x = Herbicide, y = up, label = groups), vjust =
+ 0, nudge_y = 0.01) +[] 
+ []
+
+<Example7HerbicidePred.png, id=580, 477.2229pt x 476.5002pt>
+File: Example7HerbicidePred.png Graphic file (type png)
+<use Example7HerbicidePred.png>
+Package pdftex.def Info: Example7HerbicidePred.png  used on input line 4128.
+(pdftex.def)             Requested size: 254.37025pt x 253.9835pt.
+<Example7HerbRatePred.png, id=581, 477.2229pt x 476.5002pt>
+File: Example7HerbRatePred.png Graphic file (type png)
+<use Example7HerbRatePred.png>
+Package pdftex.def Info: Example7HerbRatePred.png  used on input line 4133.
+(pdftex.def)             Requested size: 254.37025pt x 253.9835pt.
+[106
+
+]
+Overfull \hbox (22.19492pt too wide) in paragraph at lines 4162--4162
+[]                      \T1/cmtt/m/n/10 random = ~ Block, residual = ~ id(Colum
+n):ar1(Row), data = dat)[] 
+ []
+
+[107 <./Example7HerbicidePred.png> <./Example7HerbRatePred.png>] [108] [109]
+[110
+
+]
+<Exercise1Resplot.png, id=600, 636.3775pt x 635.37375pt>
+File: Exercise1Resplot.png Graphic file (type png)
+<use Exercise1Resplot.png>
+Package pdftex.def Info: Exercise1Resplot.png  used on input line 4302.
+(pdftex.def)             Requested size: 339.15819pt x 338.61761pt.
+ [111]
+Overfull \vbox (62.48131pt too high) has occurred while \output is active []
+
+
+[112]
+<Exercise1Pred.png, id=607, 477.2229pt x 476.5002pt>
+File: Exercise1Pred.png Graphic file (type png)
+<use Exercise1Pred.png>
+Package pdftex.def Info: Exercise1Pred.png  used on input line 4366.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [113 <./Exercise1Resplot.png>] [114]
+Overfull \hbox (6.44876pt too wide) in paragraph at lines 4421--4421
+[]\T1/cmtt/m/n/10 geom_text(aes(x = Treatment, y = up, label = groups), vjust =
+ 0, nudge_y = 0.05) +[] 
+ []
+
+<Exercise2Resplot.png, id=616, 634.37pt x 635.37375pt>
+File: Exercise2Resplot.png Graphic file (type png)
+<use Exercise2Resplot.png>
+Package pdftex.def Info: Exercise2Resplot.png  used on input line 4448.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+[115 <./Exercise1Pred.png>] [116]
+<Exercise2Pred.png, id=624, 477.2229pt x 476.5002pt>
+File: Exercise2Pred.png Graphic file (type png)
+<use Exercise2Pred.png>
+Package pdftex.def Info: Exercise2Pred.png  used on input line 4502.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [117 <./Exercise2Resplot.png>] [118] [119 <./Exercise2Pred.png>]
+<Exercise3Var_boxplot.pdf, id=637, 476.78125pt x 475.7775pt>
+File: Exercise3Var_boxplot.pdf Graphic file (type pdf)
+<use Exercise3Var_boxplot.pdf>
+Package pdftex.def Info: Exercise3Var_boxplot.pdf  used on input line 4570.
+(pdftex.def)             Requested size: 339.15819pt x 338.46501pt.
+<Exercise3Blk_boxplot.pdf, id=638, 476.78125pt x 475.7775pt>
+File: Exercise3Blk_boxplot.pdf Graphic file (type pdf)
+<use Exercise3Blk_boxplot.pdf>
+Package pdftex.def Info: Exercise3Blk_boxplot.pdf  used on input line 4578.
+(pdftex.def)             Requested size: 339.15819pt x 338.46501pt.
+
+Overfull \hbox (11.69748pt too wide) in paragraph at lines 4588--4588
+[] \T1/cmtt/m/n/10 $ Replicate       : Factor w/ 5 levels "1","2","3","4",..: 1
+ 1 1 1 1 1 1 2 2 2 ...[] 
+ []
+
+
+Overfull \hbox (11.69748pt too wide) in paragraph at lines 4589--4589
+[] \T1/cmtt/m/n/10 $ Variety         : Factor w/ 7 levels "CarolinaCross",..: 1
+ 2 7 3 4 6 5 3 6 1 ...[] 
+ []
+
+<Exercise3Resplot.png, id=639, 634.37pt x 635.37375pt>
+File: Exercise3Resplot.png Graphic file (type png)
+<use Exercise3Resplot.png>
+Package pdftex.def Info: Exercise3Resplot.png  used on input line 4612.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+[120
+
+]
+Overfull \vbox (18.83777pt too high) has occurred while \output is active []
+
+
+[121 <./Exercise3Var_boxplot.pdf> <./Exercise3Blk_boxplot.pdf>]
+<Exercise3Pred.png, id=658, 477.2229pt x 476.5002pt>
+File: Exercise3Pred.png Graphic file (type png)
+<use Exercise3Pred.png>
+Package pdftex.def Info: Exercise3Pred.png  used on input line 4672.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [122 <./Exercise3Resplot.png>]
+Overfull \hbox (6.44876pt too wide) in paragraph at lines 4680--4680
+[]\T1/cmtt/m/n/10 determine whether the was an effect on AverageFruitSize due t
+o the factor Variety.[] 
+ []
+
+[123] [124 <./Exercise3Pred.png>]
+<Exercise4Var_boxplot.pdf, id=670, 476.78125pt x 475.7775pt>
+File: Exercise4Var_boxplot.pdf Graphic file (type pdf)
+<use Exercise4Var_boxplot.pdf>
+Package pdftex.def Info: Exercise4Var_boxplot.pdf  used on input line 4722.
+(pdftex.def)             Requested size: 339.15819pt x 338.46501pt.
+<Exercise4Blk_boxplot.pdf, id=671, 476.78125pt x 475.7775pt>
+File: Exercise4Blk_boxplot.pdf Graphic file (type pdf)
+<use Exercise4Blk_boxplot.pdf>
+Package pdftex.def Info: Exercise4Blk_boxplot.pdf  used on input line 4730.
+(pdftex.def)             Requested size: 339.15819pt x 338.46501pt.
+<Exercise4Resplot.png, id=672, 634.37pt x 635.37375pt>
+File: Exercise4Resplot.png Graphic file (type png)
+<use Exercise4Resplot.png>
+Package pdftex.def Info: Exercise4Resplot.png  used on input line 4757.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+ [125
+
+]
+Overfull \vbox (18.83777pt too high) has occurred while \output is active []
+
+
+[126 <./Exercise4Var_boxplot.pdf> <./Exercise4Blk_boxplot.pdf>] [127 <./Exercis
+e4Resplot.png>] [128]
+<Exercise5trt_boxplot.pdf, id=699, 476.78125pt x 475.7775pt>
+File: Exercise5trt_boxplot.pdf Graphic file (type pdf)
+<use Exercise5trt_boxplot.pdf>
+Package pdftex.def Info: Exercise5trt_boxplot.pdf  used on input line 4857.
+(pdftex.def)             Requested size: 211.97307pt x 211.52792pt.
+<Exercise5row_boxplot.pdf, id=700, 476.78125pt x 475.7775pt>
+File: Exercise5row_boxplot.pdf Graphic file (type pdf)
+<use Exercise5row_boxplot.pdf>
+Package pdftex.def Info: Exercise5row_boxplot.pdf  used on input line 4858.
+(pdftex.def)             Requested size: 211.97307pt x 211.52792pt.
+<Exercise5col_boxplot.pdf, id=701, 476.78125pt x 475.7775pt>
+File: Exercise5col_boxplot.pdf Graphic file (type pdf)
+<use Exercise5col_boxplot.pdf>
+Package pdftex.def Info: Exercise5col_boxplot.pdf  used on input line 4859.
+(pdftex.def)             Requested size: 211.97307pt x 211.52792pt.
+
+Overfull \hbox (3.81998pt too wide) in paragraph at lines 4857--4860
+[][] []
+ []
+
+<Exercise5Resplot.png, id=702, 634.37pt x 635.37375pt>
+File: Exercise5Resplot.png Graphic file (type png)
+<use Exercise5Resplot.png>
+Package pdftex.def Info: Exercise5Resplot.png  used on input line 4885.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+[129
+
+] [130 <./Exercise5trt_boxplot.pdf> <./Exercise5row_boxplot.pdf> <./Exercise5co
+l_boxplot.pdf>] [131 <./Exercise5Resplot.png>]
+<Exercise5Pred.png, id=731, 477.2229pt x 476.5002pt>
+File: Exercise5Pred.png Graphic file (type png)
+<use Exercise5Pred.png>
+Package pdftex.def Info: Exercise5Pred.png  used on input line 4958.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [132] [133]
+Overfull \hbox (1.20004pt too wide) in paragraph at lines 5028--5028
+[]\T1/cmtt/m/n/10 geom_text(aes(x = Treatment, y = up, label = groups), vjust =
+ 0, nudge_y = 0.2) +[] 
+ []
+
+<Exercise6trt_boxplot.pdf, id=738, 476.78125pt x 475.7775pt>
+File: Exercise6trt_boxplot.pdf Graphic file (type pdf)
+<use Exercise6trt_boxplot.pdf>
+Package pdftex.def Info: Exercise6trt_boxplot.pdf  used on input line 5036.
+(pdftex.def)             Requested size: 211.97307pt x 211.52792pt.
+<Exercise6row_boxplot.pdf, id=739, 476.78125pt x 475.7775pt>
+File: Exercise6row_boxplot.pdf Graphic file (type pdf)
+<use Exercise6row_boxplot.pdf>
+Package pdftex.def Info: Exercise6row_boxplot.pdf  used on input line 5037.
+(pdftex.def)             Requested size: 211.97307pt x 211.52792pt.
+<Exercise6col_boxplot.pdf, id=740, 476.78125pt x 475.7775pt>
+File: Exercise6col_boxplot.pdf Graphic file (type pdf)
+<use Exercise6col_boxplot.pdf>
+Package pdftex.def Info: Exercise6col_boxplot.pdf  used on input line 5038.
+(pdftex.def)             Requested size: 211.97307pt x 211.52792pt.
+
+Overfull \hbox (3.81998pt too wide) in paragraph at lines 5036--5039
+[][] []
+ []
+
+[134 <./Exercise5Pred.png>]
+<Exercise6Resplot.png, id=745, 634.37pt x 635.37375pt>
+File: Exercise6Resplot.png Graphic file (type png)
+<use Exercise6Resplot.png>
+Package pdftex.def Info: Exercise6Resplot.png  used on input line 5063.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+ [135] [136 <./Exercise6trt_boxplot.pdf> <./Exercise6row_boxplot.pdf> <./Exerci
+se6col_boxplot.pdf>] [137 <./Exercise6Resplot.png>]
+<Exercise6Pred.png, id=774, 477.2229pt x 476.5002pt>
+File: Exercise6Pred.png Graphic file (type png)
+<use Exercise6Pred.png>
+Package pdftex.def Info: Exercise6Pred.png  used on input line 5135.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+
+[138]
+<Exercise7Resplot.png, id=778, 634.37pt x 635.37375pt>
+File: Exercise7Resplot.png Graphic file (type png)
+<use Exercise7Resplot.png>
+Package pdftex.def Info: Exercise7Resplot.png  used on input line 5190.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+ [139 <./Exercise6Pred.png>] [140]
+<Exercise7Pred.png, id=786, 634.37pt x 635.37375pt>
+File: Exercise7Pred.png Graphic file (type png)
+<use Exercise7Pred.png>
+Package pdftex.def Info: Exercise7Pred.png  used on input line 5229.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+ [141 <./Exercise7Resplot.png>]
+Overfull \hbox (6.44876pt too wide) in paragraph at lines 5269--5269
+[]\T1/cmtt/m/n/10 geom_text(aes(x = Treatment, y = up, label = groups), vjust =
+ 0, nudge_y = 0.05) +[] 
+ []
+
+[142]
+<Exercise8Resplot.png, id=794, 634.37pt x 635.37375pt>
+File: Exercise8Resplot.png Graphic file (type png)
+<use Exercise8Resplot.png>
+Package pdftex.def Info: Exercise8Resplot.png  used on input line 5277.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+ [143 <./Exercise7Pred.png>] [144]
+<Exercise8Pred.png, id=803, 477.2229pt x 476.5002pt>
+File: Exercise8Pred.png Graphic file (type png)
+<use Exercise8Pred.png>
+Package pdftex.def Info: Exercise8Pred.png  used on input line 5309.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [145 <./Exercise8Resplot.png>]
+<Exercise9Resplot.png, id=808, 634.37pt x 635.37375pt>
+File: Exercise9Resplot.png Graphic file (type png)
+<use Exercise9Resplot.png>
+Package pdftex.def Info: Exercise9Resplot.png  used on input line 5382.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+ [146 <./Exercise8Pred.png>] [147]
+<Exercise9Pred.png, id=816, 477.2229pt x 476.5002pt>
+File: Exercise9Pred.png Graphic file (type png)
+<use Exercise9Pred.png>
+Package pdftex.def Info: Exercise9Pred.png  used on input line 5399.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [148 <./Exercise9Resplot.png>]
+<Exercise10Resplot.png, id=821, 634.37pt x 635.37375pt>
+File: Exercise10Resplot.png Graphic file (type png)
+<use Exercise10Resplot.png>
+Package pdftex.def Info: Exercise10Resplot.png  used on input line 5465.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+ [149 <./Exercise9Pred.png>] [150]
+Overfull \hbox (6.44876pt too wide) in paragraph at lines 5519--5519
+[]\T1/cmtt/m/n/10 geom_text(aes(x = Treatment, y = up, label = groups), vjust =
+ 0, nudge_y = 0.05) +[] 
+ []
+
+<Exercise11Resplot.png, id=830, 634.37pt x 635.37375pt>
+File: Exercise11Resplot.png Graphic file (type png)
+<use Exercise11Resplot.png>
+Package pdftex.def Info: Exercise11Resplot.png  used on input line 5543.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+[151 <./Exercise10Resplot.png>] [152]
+<Exercise11Pred.png, id=838, 477.2229pt x 476.5002pt>
+File: Exercise11Pred.png Graphic file (type png)
+<use Exercise11Pred.png>
+Package pdftex.def Info: Exercise11Pred.png  used on input line 5573.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [153 <./Exercise11Resplot.png>]
+Overfull \hbox (6.44876pt too wide) in paragraph at lines 5644--5644
+[]\T1/cmtt/m/n/10 geom_text(aes(x = Treatment, y = up, label = groups), vjust =
+ 0, nudge_y = 0.05) +[] 
+ []
+
+<Exercise12Resplot.png, id=843, 634.37pt x 635.37375pt>
+File: Exercise12Resplot.png Graphic file (type png)
+<use Exercise12Resplot.png>
+Package pdftex.def Info: Exercise12Resplot.png  used on input line 5690.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+[154 <./Exercise11Pred.png>] [155]
+<Exercise12Pred.png, id=852, 477.2229pt x 476.5002pt>
+File: Exercise12Pred.png Graphic file (type png)
+<use Exercise12Pred.png>
+Package pdftex.def Info: Exercise12Pred.png  used on input line 5705.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [156 <./Exercise12Resplot.png>]
+<Exercise13Resplot2.png, id=857, 634.37pt x 635.37375pt>
+File: Exercise13Resplot2.png Graphic file (type png)
+<use Exercise13Resplot2.png>
+Package pdftex.def Info: Exercise13Resplot2.png  used on input line 5837.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+ [157 <./Exercise12Pred.png>]
+Overfull \vbox (12.48131pt too high) has occurred while \output is active []
+
+
+[158]
+Overfull \vbox (1.2312pt too high) has occurred while \output is active []
+
+
+[159 <./Exercise13Resplot2.png>]
+<Exercise13GenoPred.png, id=869, 477.2229pt x 476.5002pt>
+File: Exercise13GenoPred.png Graphic file (type png)
+<use Exercise13GenoPred.png>
+Package pdftex.def Info: Exercise13GenoPred.png  used on input line 5860.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+<Exercise13NitroPred.png, id=870, 477.2229pt x 476.5002pt>
+File: Exercise13NitroPred.png Graphic file (type png)
+<use Exercise13NitroPred.png>
+Package pdftex.def Info: Exercise13NitroPred.png  used on input line 5861.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5860--5862
+[][]
+ []
+
+[160]
+Overfull \vbox (13.50623pt too high) has occurred while \output is active []
+
+
+[161 <./Exercise13GenoPred.png> <./Exercise13NitroPred.png>] [162]
+<Exercise14Resplot.png, id=883, 634.37pt x 635.37375pt>
+File: Exercise14Resplot.png Graphic file (type png)
+<use Exercise14Resplot.png>
+Package pdftex.def Info: Exercise14Resplot.png  used on input line 5981.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+ [163]
+[164]
+<Exercise14Pred.png, id=890, 477.2229pt x 476.5002pt>
+File: Exercise14Pred.png Graphic file (type png)
+<use Exercise14Pred.png>
+Package pdftex.def Info: Exercise14Pred.png  used on input line 6001.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [165 <./Exercise14Resplot.png>] [166 <./Exercise14Pred.png>]
+<Exercise15Resplot2.png, id=899, 634.37pt x 635.37375pt>
+File: Exercise15Resplot2.png Graphic file (type png)
+<use Exercise15Resplot2.png>
+Package pdftex.def Info: Exercise15Resplot2.png  used on input line 6150.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+ [167]
+[168]
+<Exercise15GenoPred.png, id=907, 477.2229pt x 476.5002pt>
+File: Exercise15GenoPred.png Graphic file (type png)
+<use Exercise15GenoPred.png>
+Package pdftex.def Info: Exercise15GenoPred.png  used on input line 6173.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+<Exercise15NitroPred.png, id=908, 477.2229pt x 476.5002pt>
+File: Exercise15NitroPred.png Graphic file (type png)
+<use Exercise15NitroPred.png>
+Package pdftex.def Info: Exercise15NitroPred.png  used on input line 6174.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6173--6175
+[][]
+ []
+
+[169 <./Exercise15Resplot2.png>]
+<Exercise15Vario.png, id=913, 79.497pt x 74.1972pt>
+File: Exercise15Vario.png Graphic file (type png)
+<use Exercise15Vario.png>
+Package pdftex.def Info: Exercise15Vario.png  used on input line 6194.
+(pdftex.def)             Requested size: 339.15819pt x 316.6585pt.
+ [170]
+Overfull \vbox (13.50623pt too high) has occurred while \output is active []
+
+
+[171 <./Exercise15GenoPred.png> <./Exercise15NitroPred.png>] [172 <./Exercise15
+Vario.png>]
+<Exercise16Resplot.png, id=925, 634.37pt x 635.37375pt>
+File: Exercise16Resplot.png Graphic file (type png)
+<use Exercise16Resplot.png>
+Package pdftex.def Info: Exercise16Resplot.png  used on input line 6307.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+ [173]
+<Exercise16Variogram.png, id=930, 99.7326pt x 88.6512pt>
+File: Exercise16Variogram.png Graphic file (type png)
+<use Exercise16Variogram.png>
+Package pdftex.def Info: Exercise16Variogram.png  used on input line 6312.
+(pdftex.def)             Requested size: 339.15819pt x 301.5142pt.
+ [174] [175 <./Exercise16Resplot.png>]
+<Exercise16GenoPred.png, id=938, 477.2229pt x 476.5002pt>
+File: Exercise16GenoPred.png Graphic file (type png)
+<use Exercise16GenoPred.png>
+Package pdftex.def Info: Exercise16GenoPred.png  used on input line 6372.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+ [176 <./Exercise16Variogram.png>] [177] [178 <./Exercise16GenoPred.png>]
+<Exercise17Resplot2.png, id=949, 634.37pt x 635.37375pt>
+File: Exercise17Resplot2.png Graphic file (type png)
+<use Exercise17Resplot2.png>
+Package pdftex.def Info: Exercise17Resplot2.png  used on input line 6519.
+(pdftex.def)             Requested size: 339.15819pt x 339.70346pt.
+ [179
+
+]
+<Exercise17Variogram.png, id=954, 95.1555pt x 95.3964pt>
+File: Exercise17Variogram.png Graphic file (type png)
+<use Exercise17Variogram.png>
+Package pdftex.def Info: Exercise17Variogram.png  used on input line 6524.
+(pdftex.def)             Requested size: 339.15819pt x 340.12383pt.
+ [180]
+Overfull \vbox (25.2312pt too high) has occurred while \output is active []
+
+
+[181 <./Exercise17Resplot2.png>]
+<Exercise17ControlPred.png, id=962, 477.2229pt x 476.5002pt>
+File: Exercise17ControlPred.png Graphic file (type png)
+<use Exercise17ControlPred.png>
+Package pdftex.def Info: Exercise17ControlPred.png  used on input line 6551.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+<Exercise17SeasonPred.png, id=963, 477.2229pt x 476.5002pt>
+File: Exercise17SeasonPred.png Graphic file (type png)
+<use Exercise17SeasonPred.png>
+Package pdftex.def Info: Exercise17SeasonPred.png  used on input line 6552.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 6551--6553
+[][]
+ []
+
+<Exercise17RatePred.png, id=964, 477.2229pt x 476.5002pt>
+File: Exercise17RatePred.png Graphic file (type png)
+<use Exercise17RatePred.png>
+Package pdftex.def Info: Exercise17RatePred.png  used on input line 6556.
+(pdftex.def)             Requested size: 339.15819pt x 338.64468pt.
+[182 <./Exercise17Variogram.png>]
+Overfull \vbox (13.50623pt too high) has occurred while \output is active []
+
+
+[183 <./Exercise17ControlPred.png> <./Exercise17SeasonPred.png>] [184 <./Exerci
+se17RatePred.png>] ("W2 Linear Models.bbl"
+Underfull \hbox (badness 1735) in paragraph at lines 97--111
+[]\T1/iwonal/m/sl/10 Wright, K.  (2015).  agri-dat: Agri-cul-tural datasets [Co
+m-puter soft-ware man-ual].  Re-trieved from
+ []
+
+) [185
+
+]
+\tf@toc=\write7
+\openout7 = `"W2 Linear Models.toc"'.
+
+ ("W2 Linear Models.aux")
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 24829 strings out of 493312
+ 468593 string characters out of 3138899
+ 567451 words of memory out of 3000000
+ 27828 multiletter control sequences out of 15000+200000
+ 67539 words of font info for 61 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 52i,12n,83p,862b,1201s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\sharo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ecss1000.pk>{C:/Users/sharo/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/iwona/ec
+-iwona.enc} <C:\Users\sharo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
+c\dpi600\ectt1000.pk>{C:/Users/sharo/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips
+/iwona/sy-iwona.enc} <C:\Users\sharo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\j
+knappen\ec\dpi600\ectt1095.pk>{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base
+/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program 
+Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmmi8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/
+amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
+cm/cmr6.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pf
+b><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program File
+s/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Program Files/MiKTeX 
+2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Program Files/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/sharo/AppData/Roaming/MiKTeX/2.9/
+fonts/type1/nowacki/iwona/iwonal.pfb><C:/Users/sharo/AppData/Roaming/MiKTeX/2.9
+/fonts/type1/nowacki/iwona/iwonali.pfb><C:/Users/sharo/AppData/Roaming/MiKTeX/2
+.9/fonts/type1/nowacki/iwona/iwonam.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/urw/palatino/uplbi8a.pfb>
+Output written on "W2 Linear Models.pdf" (187 pages, 12260264 bytes).
+PDF statistics:
+ 1166 PDF objects out of 1200 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 634 words of extra memory for PDF output out of 10000 (max. 10000000)
+

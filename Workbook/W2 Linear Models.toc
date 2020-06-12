@@ -1,0 +1,79 @@
+\contentsline {chapter}{Contents}{1}
+\contentsline {chapter}{\chapternumberline {1}Statistical Analysis of Agronomic Experiments}{3}
+\contentsline {section}{\numberline {1}Data Analysis - A Cyclical Process}{4}
+\contentsline {section}{\numberline {2}Types of Analyses}{4}
+\contentsline {section}{\numberline {3}Data Types}{6}
+\contentsline {subsection}{\numberline {3.1}Response Type}{6}
+\contentsline {section}{\numberline {4}Commonly used designs}{7}
+\contentsline {chapter}{\chapternumberline {2}Linear models - Analysis of Variance}{9}
+\contentsline {section}{\numberline {5}Completely Randomised Design (CRD)}{9}
+\contentsline {subsection}{\numberline {5.1}Data Checking}{16}
+\contentsline {subsection}{\numberline {5.2}Linear Model}{17}
+\contentsline {subsection}{\numberline {5.3}Model Assumptions}{18}
+\contentsline {subsection}{\numberline {5.4}Fitting the Model}{19}
+\contentsline {subsection}{\numberline {5.5}Interpreting the Output}{20}
+\contentsline {subsection}{\numberline {5.6}Prediction}{22}
+\contentsline {subsection}{\numberline {5.7}Multiple Comparison Test}{23}
+\contentsline {subsection}{\numberline {5.8}Data Checking}{26}
+\contentsline {subsection}{\numberline {5.9}Linear Model}{28}
+\contentsline {subsection}{\numberline {5.10}Fitting the Model}{28}
+\contentsline {subsection}{\numberline {5.11}Interpreting the Output}{29}
+\contentsline {subsection}{\numberline {5.12}Prediction}{30}
+\contentsline {subsection}{\numberline {5.13}Multiple Comparison Test}{31}
+\contentsline {section}{\numberline {6}Randomised Complete Block Design (RCBD)}{36}
+\contentsline {subsection}{\numberline {6.1}Data Checking}{39}
+\contentsline {subsection}{\numberline {6.2}Linear Model}{39}
+\contentsline {subsection}{\numberline {6.3}Fitting the Model}{41}
+\contentsline {subsection}{\numberline {6.4}Interpreting the Output}{42}
+\contentsline {subsection}{\numberline {6.5}Prediction}{43}
+\contentsline {subsection}{\numberline {6.6}Multiple Comparison Test}{44}
+\contentsline {section}{\numberline {7}Latin Square}{47}
+\contentsline {subsection}{\numberline {7.1}Data Checking}{49}
+\contentsline {subsection}{\numberline {7.2}Linear Model}{50}
+\contentsline {subsection}{\numberline {7.3}Fitting the Model}{51}
+\contentsline {subsection}{\numberline {7.4}Interpreting the Output}{52}
+\contentsline {subsection}{\numberline {7.5}Prediction}{54}
+\contentsline {subsection}{\numberline {7.6}Multiple Comparison Test}{54}
+\contentsline {chapter}{\chapternumberline {3}Linear mixed models - Analysis of Variance}{59}
+\contentsline {section}{\numberline {8}LMM - introduction}{59}
+\contentsline {subsection}{\numberline {8.1}Linear Mixed Model}{59}
+\contentsline {subsection}{\numberline {8.2}Fitting the Model}{60}
+\contentsline {subsection}{\numberline {8.3}Interpreting the Output}{60}
+\contentsline {subsection}{\numberline {8.4}Prediction}{62}
+\contentsline {subsection}{\numberline {8.5}Multiple Comparison Test}{63}
+\contentsline {subsection}{\numberline {8.6}Linear Mixed Model}{65}
+\contentsline {subsection}{\numberline {8.7}Fitting the Model}{65}
+\contentsline {subsection}{\numberline {8.8}Interpreting the Output}{66}
+\contentsline {subsection}{\numberline {8.9}Prediction}{67}
+\contentsline {subsection}{\numberline {8.10}Multiple Comparison Test}{68}
+\contentsline {section}{\numberline {9}Variance Components}{71}
+\contentsline {subsection}{\numberline {9.1}Likelihood ratio test}{71}
+\contentsline {section}{\numberline {10}Split-plot}{73}
+\contentsline {subsection}{\numberline {10.1}Data Checking}{75}
+\contentsline {subsection}{\numberline {10.2}Linear Model}{75}
+\contentsline {subsection}{\numberline {10.3}Fitting the Model}{76}
+\contentsline {subsection}{\numberline {10.4}Interpreting the Output}{77}
+\contentsline {subsection}{\numberline {10.5}Prediction - Genotype}{80}
+\contentsline {subsection}{\numberline {10.6}Multiple Comparison Test - Genotype}{80}
+\contentsline {subsection}{\numberline {10.7}Prediction - Fungicide}{82}
+\contentsline {subsection}{\numberline {10.8}Multiple Comparison Test - Fungicide}{82}
+\contentsline {subsection}{\numberline {10.9}Likelihood Ratio Test}{84}
+\contentsline {chapter}{\chapternumberline {4}Extending the model to include spatial modelling}{87}
+\contentsline {subsection}{\numberline {10.10}Data Checking}{89}
+\contentsline {subsection}{\numberline {10.11}Linear Mixed Model}{89}
+\contentsline {subsection}{\numberline {10.12}Fitting the Model}{91}
+\contentsline {subsection}{\numberline {10.13}Interpreting the Output}{91}
+\contentsline {subsection}{\numberline {10.14}Variogram}{92}
+\contentsline {subsection}{\numberline {10.15}Prediction}{93}
+\contentsline {subsection}{\numberline {10.16}Multiple Comparison Test}{93}
+\contentsline {subsection}{\numberline {10.17}Likelihood Ratio Test}{96}
+\contentsline {chapter}{\chapternumberline {5}Modelling complex treatment structures}{99}
+\contentsline {subsection}{\numberline {10.18}Linear Mixed Model}{101}
+\contentsline {subsection}{\numberline {10.19}Fitting the Model}{103}
+\contentsline {subsection}{\numberline {10.20}Interpreting the Output}{104}
+\contentsline {subsection}{\numberline {10.21}Variogram}{104}
+\contentsline {subsection}{\numberline {10.22}Prediction}{105}
+\contentsline {subsection}{\numberline {10.23}Multiple Comparison Test}{105}
+\contentsline {subsection}{\numberline {10.24}Likelihood Ratio Test}{107}
+\contentsline {chapter}{\chapternumberline {6}Exercise Solutions}{112}
+\contentsline {section}{References}{185}

@@ -1,0 +1,30 @@
+\begin{thebibliography}{}
+
+\bibitem [\protect \citeauthoryear {%
+Butler%
+, Cullis%
+, Gilmour%
+\BCBL {}\ \BBA {} Gogel%
+}{%
+Butler%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2007}}%
+}]{%
+asremlr}
+\APACinsertmetastar {%
+asremlr}%
+\begin{APACrefauthors}%
+Butler, D.%
+, Cullis, B.%
+, Gilmour, A.%
+\BCBL {}\ \BBA {} Gogel, B.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {ASReml-R reference manual} {Asreml-r reference
+  manual}{\BBCQ}\ [\bibcomputersoftwaremanual].
+\PrintBackRefs{\CurrentBib}
+
+\end{thebibliography}

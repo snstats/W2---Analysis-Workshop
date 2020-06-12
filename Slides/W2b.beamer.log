@@ -1,0 +1,2036 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdflatex 2019.8.20)  16 OCT 2019 14:33
+entering extended mode
+**D:/UofA/W2/Slides/W2b.beamer.tex
+(D:/UofA/W2/Slides/W2b.beamer.tex
+LaTeX2e <2017-04-15>
+Babel <3.15> and hyphenation patterns for 75 language(s) loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamer.cls"
+Document Class: beamer 2018/02/20 v3.50 A class for typesetting presentations
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasemodes.sty"
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count79
+)
+\beamer@tempbox=\box26
+\beamer@tempcount=\count80
+\c@beamerpauses=\count81
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasedecode.sty"
+\beamer@slideinframe=\count82
+\beamer@minimum=\count83
+)
+\beamer@commentbox=\box27
+\beamer@modecount=\count84
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+\headdp=\dimen102
+\footheight=\dimen103
+\sidebarheight=\dimen104
+\beamer@tempdim=\dimen105
+\beamer@finalheight=\dimen106
+\beamer@animht=\dimen107
+\beamer@animdp=\dimen108
+\beamer@animwd=\dimen109
+\beamer@leftmargin=\dimen110
+\beamer@rightmargin=\dimen111
+\beamer@leftsidebar=\dimen112
+\beamer@rightsidebar=\dimen113
+\beamer@boxsize=\dimen114
+\beamer@vboxoffset=\dimen115
+\beamer@descdefault=\dimen116
+\beamer@descriptionwidth=\dimen117
+\beamer@lastskip=\skip41
+\beamer@areabox=\box28
+\beamer@animcurrent=\box29
+\beamer@animshowbox=\box30
+\beamer@sectionbox=\box31
+\beamer@logobox=\box32
+\beamer@linebox=\box33
+\beamer@sectioncount=\count85
+\beamer@subsubsectionmax=\count86
+\beamer@subsectionmax=\count87
+\beamer@sectionmax=\count88
+\beamer@totalheads=\count89
+\beamer@headcounter=\count90
+\beamer@partstartpage=\count91
+\beamer@sectionstartpage=\count92
+\beamer@subsectionstartpage=\count93
+\beamer@animationtempa=\count94
+\beamer@animationtempb=\count95
+\beamer@xpos=\count96
+\beamer@ypos=\count97
+\beamer@ypos@offset=\count98
+\beamer@showpartnumber=\count99
+\beamer@currentsubsection=\count100
+\beamer@coveringdepth=\count101
+\beamer@sectionadjust=\count102
+\beamer@tocsectionnumber=\count103
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaseoptions.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+))
+\beamer@paperwidth=\skip42
+\beamer@paperheight=\skip43
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count104
+\Gm@cntv=\count105
+\c@Gm@tempcnt=\count106
+\Gm@bindingoffset=\dimen118
+\Gm@wd@mp=\dimen119
+\Gm@odd@mp=\dimen120
+\Gm@even@mp=\dimen121
+\Gm@layoutwidth=\dimen122
+\Gm@layoutheight=\dimen123
+\Gm@layouthoffset=\dimen124
+\Gm@layoutvoffset=\dimen125
+\Gm@dimlist=\toks15
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size11.clo"
+File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/12/07 v1.0i Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon.tex
+\pgfutil@everybye=\toks16
+\pgfutil@tempdima=\dimen128
+\pgfutil@tempdimb=\dimen129
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon-lists.tex))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-la
+tex.def
+\pgfutil@abb=\box34
+ (C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.cod
+e.tex
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\pgf.revision.tex)
+Package: pgfrcs 2019/08/03 v3.1.4b (3.1.4b)
+))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.c
+ode.tex
+Package: pgfsys 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex
+\pgfkeys@pathtoks=\toks17
+\pgfkeys@temptoks=\toks18
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfil
+tered.code.tex
+\pgfkeys@tmptoks=\toks19
+))
+\pgf@x=\dimen130
+\pgf@y=\dimen131
+\pgf@xa=\dimen132
+\pgf@ya=\dimen133
+\pgf@xb=\dimen134
+\pgf@yb=\dimen135
+\pgf@xc=\dimen136
+\pgf@yc=\dimen137
+\pgf@xd=\dimen138
+\pgf@yd=\dimen139
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count107
+\c@pgf@countb=\count108
+\c@pgf@countc=\count109
+\c@pgf@countd=\count110
+\t@pgf@toka=\toks20
+\t@pgf@tokb=\toks21
+\t@pgf@tokc=\toks22
+\pgf@sys@id@count=\count111
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2019/08/03 v3.1.4b (3.1.4b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-p
+dftex.def
+File: pgfsys-pdftex.def 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-c
+ommon-pdf.def
+File: pgfsys-common-pdf.def 2019/08/03 v3.1.4b (3.1.4b)
+)))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysso
+ftpath.code.tex
+File: pgfsyssoftpath.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfsyssoftpath@smallbuffer@items=\count112
+\pgfsyssoftpath@bigbuffer@items=\count113
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyspr
+otocol.code.tex
+File: pgfsysprotocol.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.c
+ode.tex
+Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.cod
+e.tex
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.cod
+e.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.c
+ode.tex
+\pgfmath@dimen=\dimen140
+\pgfmath@count=\count114
+\pgfmath@box=\box35
+\pgfmath@toks=\toks23
+\pgfmath@stack@operand=\toks24
+\pgfmath@stack@operation=\toks25
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.code.tex
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.basic.code.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.trigonometric.code.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.random.code.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.comparison.code.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.base.code.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.round.code.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.misc.code.tex)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.integerarithmetics.code.tex)))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.co
+de.tex
+\c@pgfmathroundto@lastzeros=\count115
+))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfint.code.tex
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepo
+ints.code.tex
+File: pgfcorepoints.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@picminx=\dimen141
+\pgf@picmaxx=\dimen142
+\pgf@picminy=\dimen143
+\pgf@picmaxy=\dimen144
+\pgf@pathminx=\dimen145
+\pgf@pathmaxx=\dimen146
+\pgf@pathminy=\dimen147
+\pgf@pathmaxy=\dimen148
+\pgf@xx=\dimen149
+\pgf@xy=\dimen150
+\pgf@yx=\dimen151
+\pgf@yy=\dimen152
+\pgf@zx=\dimen153
+\pgf@zy=\dimen154
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@path@lastx=\dimen155
+\pgf@path@lasty=\dimen156
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thusage.code.tex
+File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@shorten@end@additional=\dimen157
+\pgf@shorten@start@additional=\dimen158
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresc
+opes.code.tex
+File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfpic=\box36
+\pgf@hbox=\box37
+\pgf@layerbox@main=\box38
+\pgf@picture@serial@count=\count116
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregr
+aphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgflinewidth=\dimen159
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
+ansformations.code.tex
+File: pgfcoretransformations.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@pt@x=\dimen160
+\pgf@pt@y=\dimen161
+\pgf@pt@temp=\dimen162
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorequ
+ick.code.tex
+File: pgfcorequick.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreob
+jects.code.tex
+File: pgfcoreobjects.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorear
+rows.code.tex
+File: pgfcorearrows.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfarrowsep=\dimen163
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresh
+ade.code.tex
+File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@max=\dimen164
+\pgf@sys@shading@range@num=\count117
+\pgf@shadingcount=\count118
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreim
+age.code.tex
+File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreex
+ternal.code.tex
+File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfexternal@startupbox=\box39
+))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorela
+yers.code.tex
+File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
+ansparency.code.tex
+File: pgfcoretransparency.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+tterns.code.tex
+File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorerd
+f.code.tex
+File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\xxcolor.sty
+Package: xxcolor 2003/10/24 ver 0.1
+\XC@nummixins=\count119
+\XC@countmixins=\count120
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package hobsub Info: Skipping package `atbegshi' (already loaded).
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen165
+\Hy@linkcounter=\count121
+\Hy@pagecounter=\count122
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count123
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4374.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4374.
+Package hyperref Info: Option `implicit' set `false' on input line 4374.
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode OFF; no redefinition of LaTeX internals.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count124
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen166
+\Fld@menulength=\count125
+\Field@Width=\dimen167
+\Fld@charsize=\dimen168
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring OFF on input line 6378.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count126
+
+
+Package hyperref Message: Stopped early.
+
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count127
+\c@bookmark@seq@number=\count128
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaserequires.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasecompatibility.sty")
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasefont.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks26
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\sansmathaccent\sansmathacc
+ent.sty
+Package: sansmathaccent 2013/03/28
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\filehook\filehook.sty
+Package: filehook 2011/10/12 v0.5d Hooks for input files
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasetranslator.sty"
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\translator.sty
+Package: translator 2019-05-31 v1.12a Easy translation of strings in LaTeX
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasemisc.sty")
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasetwoscreens.sty")
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaseoverlay.sty"
+\beamer@argscount=\count129
+\beamer@lastskipcover=\skip44
+\beamer@trivlistdepth=\count130
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasetitle.sty")
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasesection.sty"
+\c@lecture=\count131
+\c@part=\count132
+\c@section=\count133
+\c@subsection=\count134
+\c@subsubsection=\count135
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaseframe.sty"
+\beamer@framebox=\box40
+\beamer@frametitlebox=\box41
+\beamer@zoombox=\box42
+\beamer@zoomcount=\count136
+\beamer@zoomframecount=\count137
+\beamer@frametextheight=\dimen169
+\c@subsectionslide=\count138
+\beamer@frametopskip=\skip45
+\beamer@framebottomskip=\skip46
+\beamer@frametopskipautobreak=\skip47
+\beamer@framebottomskipautobreak=\skip48
+\beamer@envbody=\toks27
+\framewidth=\dimen170
+\c@framenumber=\count139
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaseverbatim.sty"
+\beamer@verbatimfileout=\write4
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaseframesize.sty"
+\beamer@splitbox=\box43
+\beamer@autobreakcount=\count140
+\beamer@autobreaklastheight=\dimen171
+\beamer@frametitletoks=\toks28
+\beamer@framesubtitletoks=\toks29
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaseframecomponents.sty"
+\beamer@footins=\box44
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasecolor.sty"
+\beamer@bg@ht=\dimen172
+\beamer@bg@wd=\dimen173
+\beamer@bg@dp=\dimen174
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasenotes.sty"
+\beamer@frameboxcopy=\box45
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasetoc.sty")
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasetemplates.sty"
+\beamer@sbttoks=\toks30
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaseauxtemplates.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaseboxes.sty"
+\bmb@box=\box46
+\bmb@colorbox=\box47
+\bmb@boxshadow=\box48
+\bmb@boxshadowball=\box49
+\bmb@boxshadowballlarge=\box50
+\bmb@temp=\dimen175
+\bmb@dima=\dimen176
+\bmb@dimb=\dimen177
+\bmb@prevheight=\dimen178
+)
+\beamer@blockheadheight=\dimen179
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbaselocalstructure.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks31
+)
+\c@figure=\count141
+\c@table=\count142
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasenavigation.sty"
+\beamer@section@min@dim=\dimen180
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasetheorems.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks32
+\ex@=\dimen181
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen182
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count143
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count144
+\leftroot@=\count145
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count146
+\DOTSCASE@=\count147
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen183
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count148
+\c@MaxMatrixCols=\count149
+\dotsspace@=\muskip11
+\c@parentequation=\count150
+\dspbrk@lvl=\count151
+\tag@help=\toks33
+\row@=\count152
+\column@=\count153
+\maxfields@=\count154
+\andhelp@=\toks34
+\eqnshift@=\dimen184
+\alignsep@=\dimen185
+\tagshift@=\dimen186
+\tagwidth@=\dimen187
+\totwidth@=\dimen188
+\lineht@=\dimen189
+\@envbody=\toks35
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amscls\amsthm.sty"
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip54
+\thm@postskip=\skip55
+\thm@headsep=\skip56
+\dth@everypar=\toks42
+)
+\c@theorem=\count155
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerbasethemes.sty"))
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerthemedefault.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerfontthemedefault.sty")
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamercolorthemedefault.sty")
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerinnerthemedefault.sty"
+\beamer@dima=\dimen190
+\beamer@dimb=\dimen191
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerouterthemedefault.sty")))
+(W2b.tex (beamerthemeFeather.sty
+Package: beamerthemeFeather 2014/04/08 v1.0.0 The Feather Beamer Theme
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.sty
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+Package: pgf 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulesha
+pes.code.tex
+File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfnodeparttextbox=\box53
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleplo
+t.code.tex
+File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-0-65.sty
+Package: pgfcomp-version-0-65 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@nodesepstart=\dimen192
+\pgf@nodesepend=\dimen193
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-1-18.sty
+Package: pgfcomp-version-1-18 2019/08/03 v3.1.4b (3.1.4b)
+))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.cod
+e.tex
+Package: pgffor 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x)
+\pgffor@iter=\dimen194
+\pgffor@skip=\dimen195
+\pgffor@stack=\toks43
+\pgffor@toks=\toks44
+))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\t
+ikz.code.tex
+Package: tikz 2019/08/03 v3.1.4b (3.1.4b)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrary
+plothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgf@plot@mark@count=\count156
+\pgfplotmarksize=\dimen196
+)
+\tikz@lastx=\dimen197
+\tikz@lasty=\dimen198
+\tikz@lastxsaved=\dimen199
+\tikz@lastysaved=\dimen256
+\tikz@lastmovetox=\dimen257
+\tikz@lastmovetoy=\dimen258
+\tikzleveldistance=\dimen259
+\tikzsiblingdistance=\dimen260
+\tikz@figbox=\box54
+\tikz@figbox@bg=\box55
+\tikz@tempbox=\box56
+\tikz@tempbox@bg=\box57
+\tikztreelevel=\count157
+\tikznumberofchildren=\count158
+\tikznumberofcurrentchild=\count159
+\tikz@fig@count=\count160
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulemat
+rix.code.tex
+File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+\pgfmatrixcurrentrow=\count161
+\pgfmatrixcurrentcolumn=\count162
+\pgf@matrix@numberofcolumns=\count163
+)
+\tikz@expandcount=\count164
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
+ibraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count165
+\calc@Bcount=\count166
+\calc@Adimen=\dimen261
+\calc@Bdimen=\dimen262
+\calc@Askip=\skip57
+\calc@Bskip=\skip58
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count167
+\calc@Cskip=\skip59
+)
+(beamerinnerthemeFeather.sty
+Package: beamerinnerthemeFeather 2014/04/08 v1.0.0 The Feather Beamer Theme
+) (beamerouterthemeFeather.sty
+Package: beamerouterthemeFeather 2014/04/08 v1.0.0 The Feather Beamer Theme
+\beamer@height=\skip60
+\beamer@logoradius=\skip61
+\beamer@borderwidth=\skip62
+\beamer@logoinnerradius=\skip63
+\beamer@logoouterradius=\skip64
+\beamer@counterradius=\skip65
+)
+(beamercolorthemeFeather.sty
+Package: beamercolorthemeFeather 2014/04/08 v1.0.0 The Feather Beamer Theme
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip66
+\multirow@cntb=\count168
+\multirow@dima=\skip67
+\bigstrutjot=\dimen263
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+\epsfxsize=\dimen264
+\epsfysize=\dimen265
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\verbatim.sty"
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks45
+\verbatim@line=\toks46
+\verbatim@in@stream=\read2
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyvrb\fancyvrb.sty
+Package: fancyvrb 2019/01/15
+
+Style option: `fancyvrb' v3.2a <2019/01/15> (tvz)
+\FV@CodeLineNo=\count169
+\FV@InFile=\read3
+\FV@TabBox=\box58
+\c@FancyVerbLine=\count170
+\FV@StepNumber=\count171
+\FV@OutFile=\write5
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\shortvrb.sty"
+Package: shortvrb 2016/02/15 v2.1g Standard LaTeX documentation package (FMi)
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\moreverb\moreverb.sty
+Package: moreverb 2008/06/03 v2.3a `more' verbatim facilities
+\tab@position=\count172
+\tab@size=\count173
+\listing@line=\count174
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\rotating.sty"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count175
+\rotFPtop=\skip68
+\rotFPbot=\skip69
+\rot@float@box=\box59
+\rot@mess@toks=\toks47
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\pifont.sty"
+Package: pifont 2005/04/12 PSNFSS-v9.2a Pi font support (SPQR) 
+LaTeX Font Info:    Try loading font information for U+pzd on input line 63.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upzd.fd"
+File: upzd.fd 2001/06/04 font definitions for U/pzd.
+)
+LaTeX Font Info:    Try loading font information for U+psy on input line 64.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\upsy.fd"
+File: upsy.fd 2001/06/04 font definitions for U/psy.
+))
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\apacite\apacite.sty
+Package: apacite 2013/07/21 v6.03 APA citation
+\c@BibCnt=\count176
+\bibleftmargin=\skip70
+\bibindent=\skip71
+\bibparsep=\skip72
+\bibitemsep=\skip73
+\biblabelsep=\skip74
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen266
+\lightrulewidth=\dimen267
+\cmidrulewidth=\dimen268
+\belowrulesep=\dimen269
+\belowbottomsep=\dimen270
+\aboverulesep=\dimen271
+\abovetopsep=\dimen272
+\cmidrulesep=\dimen273
+\cmidrulekern=\dimen274
+\defaultaddspace=\dimen275
+\@cmidla=\count177
+\@cmidlb=\count178
+\@aboverulesep=\dimen276
+\@belowrulesep=\dimen277
+\@thisruleclass=\count179
+\@lastruleclass=\count180
+\@thisrulewidth=\dimen278
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\setspace\setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count181
+\mult@box=\box60
+\multicol@leftmargin=\dimen279
+\c@unbalance=\count182
+\c@collectmore=\count183
+\doublecol@number=\count184
+\multicoltolerance=\count185
+\multicolpretolerance=\count186
+\full@width=\dimen280
+\page@free=\dimen281
+\premulticols=\dimen282
+\postmulticols=\dimen283
+\multicolsep=\skip75
+\multicolbaselineskip=\skip76
+\partial@page=\box61
+\last@line=\box62
+\maxbalancingoverflow=\dimen284
+\mult@rightbox=\box63
+\mult@grightbox=\box64
+\mult@gfirstbox=\box65
+\mult@firstbox=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\c@columnbadness=\count187
+\c@finalcolumnbadness=\count188
+\last@try=\dimen285
+\multicolovershoot=\dimen286
+\multicolundershoot=\dimen287
+\mult@nat@firstbox=\box84
+\colbreak@box=\box85
+\mc@col@check@num=\count189
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\wasysym\wasysym.sty
+Package: wasysym 2003/10/30 v2.0 Wasy-2 symbol support package
+\symwasy=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 90.
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2018/12/12 v1.0d Color table columns (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen288
+\extrarowheight=\dimen289
+\NC@list=\toks48
+\extratabsurround=\skip77
+\backup@length=\skip78
+)
+\everycr=\toks49
+\minrowclearance=\skip79
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\iwona.sty
+Package: iwona 2005/10/03 v.1.2 Iwona package (MW)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+)
+LaTeX Font Info:    Try loading font information for T1+iwonal on input line 10
+5.
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\iwona\t1iwonal.fd
+File: t1iwonal.fd 2008/07/22 v0.995 font definition file for T1/iwonal (MW)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+\lst@mode=\count190
+\lst@gtempboxa=\box86
+\lst@token=\toks50
+\lst@length=\count191
+\lst@currlwidth=\dimen290
+\lst@column=\count192
+\lst@pos=\count193
+\lst@lostspace=\dimen291
+\lst@width=\dimen292
+\lst@newlines=\count194
+\lst@lineno=\count195
+\lst@maxwidth=\dimen293
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count196
+\lst@skipnumbers=\count197
+\lst@framebox=\box87
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\beamerfontthemeprofessionalfonts
+.sty") (W2b.beamer.aux)
+\openout1 = `W2b.beamer.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: custom
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot 
+* h-part:(L,W,R)=(28.45274pt, 398.3386pt, 28.45274pt)
+* v-part:(T,H,B)=(0.0pt, 256.0748pt, 0.0pt)
+* \paperwidth=455.24408pt
+* \paperheight=256.0748pt
+* \textwidth=398.3386pt
+* \textheight=227.62207pt
+* \oddsidemargin=-43.81725pt
+* \evensidemargin=-43.81725pt
+* \topmargin=-72.26999pt
+* \headheight=14.22636pt
+* \headsep=0.0pt
+* \topskip=11.0pt
+* \footskip=14.22636pt
+* \marginparwidth=4.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\context\base\mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count198
+\scratchdimen=\dimen294
+\scratchbox=\box88
+\nofMPsegments=\count199
+\nofMParguments=\count266
+\everyMPshowfont=\toks51
+\MPscratchCnt=\count267
+\MPscratchDim=\dimen295
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
+\everyMPtoPDFconversion=\toks52
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+ABD: EveryShipout initializing macros
+\AtBeginShipoutBox=\box89
+Package hyperref Info: Link coloring OFF on input line 60.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count270
+)
+LaTeX Info: Redefining \ref on input line 60.
+LaTeX Info: Redefining \pageref on input line 60.
+LaTeX Info: Redefining \nameref on input line 60.
+
+(W2b.beamer.out) (W2b.beamer.out)
+\@outlinefile=\write6
+\openout6 = `W2b.beamer.out'.
+
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\translator-basi
+c-dictionary-English.dict
+Dictionary: translator-basic-dictionary, Language: English 
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\translator-bibl
+iography-dictionary-English.dict
+Dictionary: translator-bibliography-dictionary, Language: English 
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\translator-envi
+ronment-dictionary-English.dict
+Dictionary: translator-environment-dictionary, Language: English 
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\translator-mont
+hs-dictionary-English.dict
+Dictionary: translator-months-dictionary, Language: English 
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\translator-numb
+ers-dictionary-English.dict
+Dictionary: translator-numbers-dictionary, Language: English 
+)
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\translator\translator-theo
+rem-dictionary-English.dict
+Dictionary: translator-theorem-dictionary, Language: English 
+)
+\c@maskedRefs=\count271
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\apacite\english.apc
+File: english.apc 2013/07/21 v6.03 apacite language file
+LaTeX Info: Redefining \BPBI on input line 129.
+LaTeX Info: Redefining \BHBI on input line 130.
+)
+\c@lstlisting=\count272
+
+(W2b.beamer.nav)
+<Feathergraphics/2.pdf, id=30, 508.14844pt x 472.01344pt>
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 60.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+\openout4 = `W2b.beamer.vrb'.
+
+ (W2b.beamer.vrb
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 2.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+))
+LaTeX Font Info:    Try loading font information for U+msa on input line 82.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 82.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Try loading font information for U+wasy on input line 82.
+
+(C:\Users\sharo\AppData\Roaming\MiKTeX\2.9\tex\latex\wasysym\uwasy.fd
+File: uwasy.fd 2003/10/30 v2.0 Wasy-2 symbol font definitions
+)
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 82.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [1{C:/Users/sharo/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+ <./Feathergraphics/2.pdf>]
+\openout4 = `W2b.beamer.vrb'.
+
+ (W2b.beamer.vrb)
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 102.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [2
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 114.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [3
+
+]
+<yourturn.png, id=61, 313.6518pt x 66.12704pt>
+File: yourturn.png Graphic file (type png)
+<use yourturn.png>
+Package pdftex.def Info: yourturn.png  used on input line 134.
+(pdftex.def)             Requested size: 40.4842pt x 8.5359pt.
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 134.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [4
+
+ <./yourturn.png>]
+<fpeas.jpg, id=73, 443.256pt x 147.9126pt>
+File: fpeas.jpg Graphic file (type jpg)
+<use fpeas.jpg>
+Package pdftex.def Info: fpeas.jpg  used on input line 153.
+(pdftex.def)             Requested size: 227.62204pt x 75.95578pt.
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 153.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [5
+
+ <./fpeas.jpg>]
+Overfull \hbox (0.69107pt too wide) in alignment at lines 174--174
+ [][][] []
+ []
+
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 174.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+[6
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 193.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [7
+
+]
+\openout4 = `W2b.beamer.vrb'.
+
+ (W2b.beamer.vrb
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 7--7
+[]   \T1/cmtt/m/n/10.95 predicted.value  Variety std.error groups       ci     
+ low       up[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 8--8
+[]\T1/cmtt/m/n/10.95 1         1.973333     Lang 0.1177883      a 0.243103 1.73
+0230 2.216436[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 9--9
+[]\T1/cmtt/m/n/10.95 2         2.130000 Drysdale 0.1177883      a 0.243103 1.88
+6897 2.373103[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 10--10
+[]\T1/cmtt/m/n/10.95 3         2.130000    Wylah 0.1177883      a 0.243103 1.88
+6897 2.373103[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 11--11
+[]\T1/cmtt/m/n/10.95 4         2.140000   Baxter 0.1177883      a 0.243103 1.89
+6897 2.383103[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 12--12
+[]\T1/cmtt/m/n/10.95 5         2.193333     Janz 0.1177883     ab 0.243103 1.95
+0230 2.436436[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 13--13
+[]\T1/cmtt/m/n/10.95 6         2.240000   Endure 0.1177883     ab 0.243103 1.99
+6897 2.483103[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 14--14
+[]\T1/cmtt/m/n/10.95 7         2.270000    Orion 0.1177883     ab 0.243103 2.02
+6897 2.513103[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 15--15
+[]\T1/cmtt/m/n/10.95 8         2.283333    Zippy 0.1177883     ab 0.243103 2.04
+0230 2.526436[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 16--16
+[]\T1/cmtt/m/n/10.95 9         2.526667  Fortune 0.1177883     ab 0.243103 2.28
+3564 2.769770[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 17--17
+[]\T1/cmtt/m/n/10.95 10        2.540000  Caryina 0.1177883     ab 0.243103 2.29
+6897 2.783103[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 18--18
+[]\T1/cmtt/m/n/10.95 11        2.750000  Pugsley 0.1177883      b 0.243103 2.50
+6897 2.993103[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 19--19
+[]\T1/cmtt/m/n/10.95 12        2.753333   Arrino 0.1177883      b 0.243103 2.51
+0230 2.996436[] 
+ []
+
+)
+Overfull \vbox (41.4375pt too high) detected at line 219
+ []
+
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 219.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+[8
+
+]
+\openout4 = `W2b.beamer.vrb'.
+
+ (W2b.beamer.vrb
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 9--9
+[]  \T1/cmtt/m/n/10.95 predicted.value Treatment std.error groups        ci    
+  low       up[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 10--10
+[]\T1/cmtt/m/n/10.95 1          2.1250        KC 0.1811182      a 0.3805153 1.7
+44485 2.505515[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 11--11
+[]\T1/cmtt/m/n/10.95 2          2.1650        PE 0.1811182      a 0.3805153 1.7
+84485 2.545515[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 12--12
+[]\T1/cmtt/m/n/10.95 3          2.6150        HL 0.1811182     ab 0.3805153 2.2
+34485 2.995515[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 13--13
+[]\T1/cmtt/m/n/10.95 4          2.7700        CN 0.1811182     ab 0.3805153 2.3
+89485 3.150515[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 14--14
+[]\T1/cmtt/m/n/10.95 5          2.7975        HE 0.1811182     ab 0.3805153 2.4
+16985 3.178015[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 15--15
+[]\T1/cmtt/m/n/10.95 6          3.3650        CP 0.1811182      b 0.3805153 2.9
+84485 3.745515[] 
+ []
+
+)
+Overfull \vbox (0.63748pt too high) detected at line 241
+ []
+
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 241.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+[9
+
+]
+\openout4 = `W2b.beamer.vrb'.
+
+ (W2b.beamer.vrb
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 10--10
+[]  \T1/cmtt/m/n/10.95 predicted.value Treatment std.error groups        ci    
+  low       up[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 11--11
+[]\T1/cmtt/m/n/10.95 1          2.1250        KC 0.1811182      a 0.3710039 1.7
+53996 2.496004[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 12--12
+[]\T1/cmtt/m/n/10.95 2          2.1650        PE 0.1811182      a 0.3710039 1.7
+93996 2.536004[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 13--13
+[]\T1/cmtt/m/n/10.95 3          2.6150        HL 0.1811182     ab 0.3710039 2.2
+43996 2.986004[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 14--14
+[]\T1/cmtt/m/n/10.95 4          2.7700        CN 0.1811182     ab 0.3710039 2.3
+98996 3.141004[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 15--15
+[]\T1/cmtt/m/n/10.95 5          2.7975        HE 0.1811182     ab 0.3710039 2.4
+26496 3.168504[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 16--16
+[]\T1/cmtt/m/n/10.95 6          3.3650        CP 0.1811182      b 0.3710039 2.9
+93996 3.736004[] 
+ []
+
+)
+Overfull \vbox (14.23749pt too high) detected at line 264
+ []
+
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 264.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+[10
+
+]
+\openout4 = `W2b.beamer.vrb'.
+
+ (W2b.beamer.vrb)
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 278.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [11
+
+]
+\openout4 = `W2b.beamer.vrb'.
+
+ (W2b.beamer.vrb)
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 298.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [12
+
+]
+\openout4 = `W2b.beamer.vrb'.
+
+ (W2b.beamer.vrb)
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 319.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [13
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 333.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [14
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 352.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+
+[15
+
+]
+\openout4 = `W2b.beamer.vrb'.
+
+ (W2b.beamer.vrb)
+Overfull \vbox (0.63748pt too high) detected at line 377
+ []
+
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 377.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+[16
+
+]
+<SPBucket.png, id=165, 224.5188pt x 294.3798pt>
+File: SPBucket.png Graphic file (type png)
+<use SPBucket.png>
+Package pdftex.def Info: SPBucket.png  used on input line 387.
+(pdftex.def)             Requested size: 113.81102pt x 149.22435pt.
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 387.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [17
+
+ <./SPBucket.png>]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 403.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [18
+
+]
+<exptlayout.png, id=181, 1278.7775pt x 1143.27126pt>
+File: exptlayout.png Graphic file (type png)
+<use exptlayout.png>
+Package pdftex.def Info: exptlayout.png  used on input line 416.
+(pdftex.def)             Requested size: 192.60835pt x 172.19911pt.
+File: yourturn.png Graphic file (type png)
+<use yourturn.png>
+Package pdftex.def Info: yourturn.png  used on input line 416.
+(pdftex.def)             Requested size: 40.4842pt x 8.5359pt.
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 416.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [19
+
+ <./exptlayout.png>]
+File: yourturn.png Graphic file (type png)
+<use yourturn.png>
+Package pdftex.def Info: yourturn.png  used on input line 434.
+(pdftex.def)             Requested size: 40.4842pt x 8.5359pt.
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 434.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [20
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 452.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [21
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 462.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [22
+
+]
+\openout4 = `W2b.beamer.vrb'.
+
+
+(W2b.beamer.vrb
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 9--9
+[]  \T1/cmtt/m/n/10.95 predicted.value   Genotype std.error groups       ci    
+  low       up[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 10--10
+[]\T1/cmtt/m/n/10.95 1         97.6250    Victory  7.152596      a 14.28062 83.
+34438 111.9056[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 11--11
+[]\T1/cmtt/m/n/10.95 2        104.5000 GoldenRain  7.152596     ab 14.28062 90.
+21938 118.7806[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 12--12
+[]\T1/cmtt/m/n/10.95 3        109.7917 Marvellous  7.152596      b 14.28062 95.
+51105 124.0723[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 14--14
+[]  \T1/cmtt/m/n/10.95 predicted.value Nitrogen std.error groups      ci       
+low        up[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 15--15
+[]\T1/cmtt/m/n/10.95 1        79.38889        0  7.339506      a 14.6538  64.73
+509  94.04269[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 16--16
+[]\T1/cmtt/m/n/10.95 2        98.88889      0.2  7.339506      b 14.6538  84.23
+509 113.54269[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 17--17
+[]\T1/cmtt/m/n/10.95 3       114.22222      0.4  7.339506      c 14.6538  99.56
+842 128.87602[] 
+ []
+
+
+Overfull \hbox (3.40575pt too wide) in paragraph at lines 18--18
+[]\T1/cmtt/m/n/10.95 4       123.38889      0.6  7.339506      c 14.6538 108.73
+509 138.04268[] 
+ []
+
+)
+Overfull \vbox (41.4375pt too high) detected at line 488
+ []
+
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 488.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+[23
+
+]
+\openout4 = `W2b.beamer.vrb'.
+
+ (W2b.beamer.vrb
+Overfull \hbox (26.03923pt too wide) in paragraph at lines 9--9
+[]\T1/cmtt/m/n/10.95 predicted.value Variety Irrigation std.error groups    ci 
+     low       up[] 
+ []
+
+
+Overfull \hbox (37.35597pt too wide) in paragraph at lines 10--10
+[]\T1/cmtt/m/n/10.95 1     4.613333 Thumper    Rainfed 0.9902407      a 2.06560
+6 2.547727 6.678939[] 
+ []
+
+
+Overfull \hbox (37.35597pt too wide) in paragraph at lines 11--11
+[]\T1/cmtt/m/n/10.95 2     5.470000 Cobbler    Rainfed 0.9902407     ab 2.06560
+6 3.404394 7.535606[] 
+ []
+
+
+Overfull \hbox (37.35597pt too wide) in paragraph at lines 12--12
+[]\T1/cmtt/m/n/10.95 3     5.906667   Bravo    Rainfed 0.9902407      b 2.06560
+6 3.841061 7.972273[] 
+ []
+
+
+Overfull \hbox (37.35597pt too wide) in paragraph at lines 13--13
+[]\T1/cmtt/m/n/10.95 4     6.193333   Hyola    Rainfed 0.9902407     bc 2.06560
+6 4.127727 8.258939[] 
+ []
+
+
+Overfull \hbox (37.35597pt too wide) in paragraph at lines 14--14
+[]\T1/cmtt/m/n/10.95 5     6.433333 Victory    Rainfed 0.9902407     bc 2.06560
+6 4.367727 8.498939[] 
+ []
+
+
+Overfull \hbox (37.35597pt too wide) in paragraph at lines 15--15
+[]\T1/cmtt/m/n/10.95 6     6.923333 Thumper  Irrigated 0.9902407     bc 2.06560
+6 4.857727 8.988939[] 
+ []
+
+
+Overfull \hbox (37.35597pt too wide) in paragraph at lines 16--16
+[]\T1/cmtt/m/n/10.95 7     7.023333 Victory  Irrigated 0.9902407     bc 2.06560
+6 4.957727 9.088939[] 
+ []
+
+
+Overfull \hbox (37.35597pt too wide) in paragraph at lines 17--17
+[]\T1/cmtt/m/n/10.95 8     7.683333   Bravo  Irrigated 0.9902407      c 2.06560
+6 5.617727 9.748939[] 
+ []
+
+
+Overfull \hbox (37.35597pt too wide) in paragraph at lines 18--18
+[]\T1/cmtt/m/n/10.95 9     7.703333   Hyola  Irrigated 0.9902407      c 2.06560
+6 5.637727 9.768939[] 
+ []
+
+
+Overfull \hbox (37.35597pt too wide) in paragraph at lines 19--19
+[]\T1/cmtt/m/n/10.95 10    7.753333 Cobbler  Irrigated 0.9902407      c 2.06560
+6 5.687727 9.818939[] 
+ []
+
+)
+Overfull \vbox (55.0375pt too high) detected at line 514
+ []
+
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 514.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+[24
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 527.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [25
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 540.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [26
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 557.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [27
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 575.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [28
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 587.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [29
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 613.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [30
+
+]
+<fieldherb.png, id=268, 162.8484pt x 46.0119pt>
+File: fieldherb.png Graphic file (type png)
+<use fieldherb.png>
+Package pdftex.def Info: fieldherb.png  used on input line 629.
+(pdftex.def)             Requested size: 261.22125pt x 73.80069pt.
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 629.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [31
+
+ <./fieldherb.png>]
+File: exptlayout.png Graphic file (type png)
+<use exptlayout.png>
+Package pdftex.def Info: exptlayout.png  used on input line 641.
+(pdftex.def)             Requested size: 192.60835pt x 172.19911pt.
+File: yourturn.png Graphic file (type png)
+<use yourturn.png>
+Package pdftex.def Info: yourturn.png  used on input line 641.
+(pdftex.def)             Requested size: 40.4842pt x 8.5359pt.
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 641.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [32
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 655.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [33
+
+]
+\openout4 = `W2b.beamer.vrb'.
+
+
+(W2b.beamer.vrb
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 9--9
+[]  \T1/cmtt/m/n/10.95 predicted.value   Genotype std.error groups       ci    
+  low       up[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 10--10
+[]\T1/cmtt/m/n/10.95 1        97.80461    Victory  7.206781      a 14.38880 83.
+41580 112.1934[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 11--11
+[]\T1/cmtt/m/n/10.95 2       102.57666 GoldenRain  7.264648     ab 14.50434 88.
+07232 117.0810[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 12--12
+[]\T1/cmtt/m/n/10.95 3       109.27679 Marvellous  7.175646      b 14.32664 94.
+95015 123.6034[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 14--14
+[]  \T1/cmtt/m/n/10.95 predicted.value Nitrogen std.error groups       ci      
+ low        up[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 15--15
+[]\T1/cmtt/m/n/10.95 1        77.08206        0  7.251809      a 14.47870  62.6
+0335  91.56076[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 16--16
+[]\T1/cmtt/m/n/10.95 2        98.47013      0.2  7.209918      b 14.39506  84.0
+7507 112.86519[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 17--17
+[]\T1/cmtt/m/n/10.95 3       114.44260      0.4  7.198464      c 14.37220 100.0
+7040 128.81479[] 
+ []
+
+
+Overfull \hbox (9.06412pt too wide) in paragraph at lines 18--18
+[]\T1/cmtt/m/n/10.95 4       122.88263      0.6  7.224191      c 14.42356 108.4
+5906 137.30619[] 
+ []
+
+)
+Overfull \vbox (41.4375pt too high) detected at line 683
+ []
+
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 683.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+[34
+
+]
+\openout4 = `W2b.beamer.vrb'.
+
+ (W2b.beamer.vrb
+Overfull \hbox (20.38086pt too wide) in paragraph at lines 7--7
+[]   \T1/cmtt/m/n/10.95 predicted.value Genotype std.error   groups        ci  
+    low       up[] 
+ []
+
+
+Overfull \hbox (20.38086pt too wide) in paragraph at lines 8--8
+[]\T1/cmtt/m/n/10.95 1         1.531944      G36 0.2764750       ab 0.5485185 0
+.983426 2.080463[] 
+ []
+
+
+Overfull \hbox (20.38086pt too wide) in paragraph at lines 9--9
+[]\T1/cmtt/m/n/10.95 2         1.590845      G28 0.2747931       ac 0.5451817 1
+.045663 2.136027[] 
+ []
+
+
+Overfull \hbox (20.38086pt too wide) in paragraph at lines 10--10
+[]\T1/cmtt/m/n/10.95 3         1.808187      G07 0.2701121     abce 0.5358947 1
+.272293 2.344082[] 
+ []
+
+
+Overfull \hbox (20.38086pt too wide) in paragraph at lines 11--11
+[]\T1/cmtt/m/n/10.95 4         1.874460      G46 0.2687801    abcef 0.5332521 1
+.341208 2.407712[] 
+ []
+
+
+Overfull \hbox (20.38086pt too wide) in paragraph at lines 12--12
+[]\T1/cmtt/m/n/10.95 5         1.884487      G29 0.2684802    abcef 0.5326571 1
+.351829 2.417144[] 
+ []
+
+
+Overfull \hbox (20.38086pt too wide) in paragraph at lines 13--13
+[]\T1/cmtt/m/n/10.95 6         1.886878      G43 0.2685921    abcef 0.5328791 1
+.353999 2.419757[] 
+ []
+
+)
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 705.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [35
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 718.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [36
+
+]
+Overfull \vbox (13.43747pt too high) detected at line 751
+ []
+
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 751.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+[37
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 767.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [38
+
+]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 792.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [39
+
+]
+<complextrt.png, id=334, 251.0178pt x 51.5526pt>
+File: complextrt.png Graphic file (type png)
+<use complextrt.png>
+Package pdftex.def Info: complextrt.png  used on input line 807.
+(pdftex.def)             Requested size: 359.38554pt x 73.80069pt.
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 807.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [40
+
+ <./complextrt.png>]
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 822.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [41
+
+]
+\openout4 = `W2b.beamer.vrb'.
+
+ (W2b.beamer.vrb)
+Overfull \vbox (55.0375pt too high) detected at line 848
+ []
+
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 848.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+[42
+
+] (W2b.beamer.bbl)
+File: Feathergraphics/2.pdf Graphic file (type pdf)
+<use Feathergraphics/2.pdf>
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 857.
+(pdftex.def)             Requested size: 37.40611pt x 34.74406pt.
+Missing character: There is no ; in font nullfont!
+ [43
+
+]
+\tf@nav=\write7
+\openout7 = `W2b.beamer.nav'.
+
+\tf@toc=\write8
+\openout8 = `W2b.beamer.toc'.
+
+\tf@snm=\write9
+\openout9 = `W2b.beamer.snm'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 860.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 860.
+ (W2b.beamer.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 860.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 860.
+Package rerunfilecheck Info: File `W2b.beamer.out' has not changed.
+(rerunfilecheck)             Checksum: 4ED388B9A93190926F910BC1504C4E52;257.
+ ) ) 
+Here is how much of TeX's memory you used:
+ 23866 strings out of 493312
+ 452995 string characters out of 3138899
+ 523366 words of memory out of 3000000
+ 26721 multiletter control sequences out of 15000+200000
+ 39492 words of font info for 64 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 65i,17n,68p,810b,962s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/sharo/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/iwona/ec-iwona.e
+nc} <C:\Users\sharo\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600
+\ectt1095.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10
+.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/
+Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program F
+iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/sharo/AppData/Roaming
+/MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonal.pfb><C:/Users/sharo/AppData/Roamin
+g/MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonali.pfb><C:/Users/sharo/AppData/Roam
+ing/MiKTeX/2.9/fonts/type1/nowacki/iwona/iwonam.pfb>
+Output written on W2b.beamer.pdf (43 pages, 2785605 bytes).
+PDF statistics:
+ 484 PDF objects out of 1000 (max. 8388607)
+ 92 named destinations out of 1000 (max. 500000)
+ 110 words of extra memory for PDF output out of 10000 (max. 10000000)
+
